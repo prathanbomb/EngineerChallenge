@@ -1,0 +1,526 @@
+﻿1,เส้นแบบใด ใช้ในการแสดงเพื่อบอกศูนย์กลางของวงกลม,none,none,none,none,none,2,none,a1.png,b1.png,c1.png,d1.png,none
+2,อัตราส่วน (scale) 1:3 หมายถึง,ขนาดในภาพเขียนจะใหญ่กว่าขนาดจริง 3 เท่า,ขนาดในภาพเขียนจะเล็กกว่าขนาดจริง 3 เท่า,การบอกขนาดในภาพเขียน จะระบุขนาดที่ใหญ่กว่าขนาดจริง 3 เท่า,การบอกขนาดในภาพเขียน จะระบุขนาดที่เล็กกว่าขนาดจริง 3 เท่า,none,2,none,none,none,none,none,none
+3,เส้นเต็มบาง (Continuous thin line) ใช้ในกรณีใดได้บ้าง,เส้นรอบรูป ขอบที่เห็นชัด,เส้นรอบรูป ขอบที่ถูกบัง,เส้นลายตัด,เส้นผ่านศูนย์กลาง,none,3,none,none,none,none,none,none
+4,"ในงานเขียนแบบที่ใช้กลุ่มเส้น 0.5, 0.35, และ 0.25 มิลลิเมตร การเขียนเส้นประ (เส้นขอบชิ้นงานที่ถูกบัง) ใช้ขนาดเส้นเท่าใด",0.5 มิลลิเมตร,0.35 มิลลิเมตร,0.25 มิลลิเมตร,ขนาดใดก็ได้,none,2,none,none,none,none,none,none
+5,พื้นผิวระนาบเอียงที่ถูกกำหนดให้.........................กับระนาบหนึ่งระนาบของสามระนาบหลักในระบบพิกัดฉากจะ.......................กับอีกสองระนาบที่เหลือของระบบพิกัดฉาก,"ขนาน, ทำมุมเอียง","ตั้งฉาก, ทำมุมเอียง","ตั้งฉาก, ขนาน","ทำมุมเอียง, ขนาน",none,2,none,none,none,none,none,none
+6,ขนาดกระดาษ A4 มีขนาดความกว้างและยาวเท่าไร,210 x 297,297 x 420,420 x 594,594 x 840,none,1,none,none,none,none,none,none
+7,การเขียนเส้นผ่านศูนย์กลางของวงกลม ใช้เส้นใด,เส้นเต็มหนัก,เส้นเต็มบาง,เส้นศูนย์กลางเล็ก,เส้นศูนย์กลางใหญ่,none,3,none,none,none,none,none,none
+8,ถ้าใช้เส้นศูนย์กลางใหญ่แทนเส้นศูนย์กลางเล็กในการเขียนแบบแล้วจะเกิดอะไรขึ้น,เหมือนเดิม,แบบแปรความหมายผิด,งานนั้นต้องการปรับปรุง,ต้องตรวจสอบขนาดตรงเส้นกำหนด,none,1,none,none,none,none,none,none
+9,การเอียงของตัวอักษรที่เหมาะสมควรเอียง,15 องศา กับแนวดิ่งเอียงด้านหน้า,75 องศา กับแนวดิ่งเอียงด้านหลัง,15 องศา กับแนวดิ่งเอียงด้านหลัง,75 องศา กับแนวนอนเอียงด้านหน้า,none,3,none,none,none,none,none,none
+10,"คำว่า ""King"" เมื่ออักษร ""K"" สูง 10 ม.ม อักษร ""ing"" สูงเท่าใด",7 ม.ม.,5 ม.ม.,3 ม.ม.,2.5 ม.ม.,none,1,none,none,none,none,none,none
+11,"คำว่า ""King"" เมื่ออักษร ""K"" สูง 10 ม.ม. ขนาดเส้นที่ใช้เขียนตัวอักษรมีความหนาเท่าใด",0.25 ม.ม.,0.35 ม.ม.,0.5 ม.ม.,1.0 ม.ม.,none,4,none,none,none,none,none,none
+12,ถ้าเส้นตรงวัดได้ 50 ม.ม.ใช้มาตราส่วน 1 : 5 จะเขียนเส้นนั้นลงในแบบเท่าไร,250 ม.ม.,25 ม.ม.,10 ม.ม.,5 ม.ม.,none,3,none,none,none,none,none,none
+13,ถ้าเส้นตรงวัดได้ 50 ม.ม. ใช้มาตราส่วน 2 : 1 จะเขียนเส้นนั้นลงในแบบเท่าไร,100 ม.ม.,25 ม.ม.,10 ม.ม.,5 ม.ม.,none,1,none,none,none,none,none,none
+14,เส้นใดใช้เป็นเส้นช่วยกำหนดขนาด,เส้นเต็มหนัก,เส้นเต็มบาง,เส้นศูนย์กลางใหญ่,เส้นศูนย์กลางเล็ก,none,2,none,none,none,none,none,none
+15,ข้อใคต่อไปนี้เป็นการใช้งานของเส้นศูนย์กลาง,แสดงรอยตัดย่นระยะของรูป,ช่วยให้ขนาด,แสดงแนวการหมุนของชิ้นส่วน(Trajectory),แสดงลายตัด,none,3,none,none,none,none,none,none
+16,การเว้นระยะตัวอักษร ควรจะเว้นระยะอย่างไร,พิจารณาจากระยะห่างระหว่างตัวอักษร ให้มีระยะเท่าๆ กัน,พิจารณาจากตำแหน่งกึ่งกลางตัวอักษรตัวแรก และกึ่งกลางตัวอักษรตัวหลังให้มีระยะเท่าๆ กัน,พิจารณาจากพื้นที่ว่างระหว่างตัวอักษร ให้มีพื้นที่เท่าๆ กัน,พิจารณาจากพื้นที่ว่าง และระยะห่าง ให้มีขนาดเท่าๆ กัน,none,4,none,none,none,none,none,none
+17,"จากรูป ข้อใดกล่าวถึงเส้น A, B, C และ D ได้ถูกต้อง","VISIBLE LINE, CENTER LINE, HIDDEN LINE AND SECTION LINE","VISIBLE LINE, HIDDEN LINE, CENTER LINE AND SECTION LINE","SECTION LINE, HIDDEN LINE, CENTER LINE AND VISIBLE LINE","SECTION LINE, HIDDEN LINE, VISIBLE LINE AND CENTER LINE",none,2,q17.png,none,none,none,none,none
+18,ดินสอเขียนแบบข้อใดมีไส้ดินสอแข็งที่สุด,3H,HB,B,2B,none,1,none,none,none,none,none,none
+19,กระดาษขนาด A 4 เป็นกี่เท่าของ A 1,1/8,1/4,4,8,none,1,none,none,none,none,none,none
+20,ข้อใดกล่าวถูกต้องเกี่ยวกับการเขียนตัวเลขเศษส่วน(lettering fraction),ตัวเลขต้องไม่สัมผัสกับเครื่องหมายเศษส่วน,ตำแหน่งกึ่งกลางของตัวส่วนต้องตรงกับตัวเศษ,ไม่ใช้เครื่องหมายเศษส่วนแบบเอียงยกเว้นเมื่อมีพื้นที่แคบในการเขียน,ถูกทุกข้อ,none,4,none,none,none,none,none,none
+21,ข้อใดไม่ใช่มาตรฐานในงานเขียนแบบ,มอก.,ISO,AISI,ASHRAE,none,4,none,none,none,none,none,none
+22,ในทางสากล นิยมวาง Title Box ไว้ที่ตำแหน่งใดของกระดาษ,บนซ้าย,ล่างขวา,ล่างซ้าย,บนขวา,none,2,none,none,none,none,none,none
+23,หลักสากล ในการเขียนแบบ มีเส้นใดบ้างที่ต้องลงน้ำหนักของเส้นให้หนาและเข้ม,"visible line, center line, dimension & extension line","visible line, break line, cutting plane","visible line, center line, break line","visible line, hidden line, section line",none,4,none,none,none,none,none,none
+24,การเขียนเส้นศูนย์กลาง (center line) ในข้อใดถูกต้องที่สุด,none,none,none,none,none,1,none,a24.png,b24.png,c24.png,d24.png,none
+25,อุปกรณ์เขียนแบบข้อใดใช้วัดตรวจสอบความยาว และแบ่งเส้นตรงเป็นส่วนย่อยๆได้,ไม้บรรทัด,ดีไวเดอร์,เซ็ทสามเหลี่ยมวัดมุมได้,เพลตสำหรับทำโค้ง,none,2,none,none,none,none,none,none
+26,ข้อใดคือประโยชน์ของไม้ที,ใช้เขียนเส้นระดับ,ใช้กดไม่ให้กระดาษเขียนแบบเคลื่อนที่ในขณะเขียนแบบ,เป็นฐานรองรับฉากสามเหลี่ยม,ข้อที่ 1. และ ข้อที่ 3. ถูกต้อง,none,4,none,none,none,none,none,none
+27,ไส้ดินสอเบอร์ใดมีความเข้มน้อยที่สุด,2B,HB,4H,F,none,3,none,none,none,none,none,none
+28,ไส้ดินสอเบอร์ใดมีความเข้มมากที่สุด,2B,HB,4H,F,none,1,none,none,none,none,none,none
+29,จากรูปที่กำหนดให้ มุม A มีค่าเท่าใด,45 องศา,125 องศา,135 องศา,145 องศา,none,3,q29.png,none,none,none,none,none
+30,บรรทัดสามเหลี่ยมตามรูปที่กำหนดให้ มีมุมเท่าใดบ้าง,"60, 45, 30 องศา","90, 60, 30 องศา","90, 45, 30 องศา","45, 30, 90 องศา",none,2,q30.png,none,none,none,none,none
+31,จากรูปที่กำหนดให้ มุม B มีค่าเท่าใด,5 องศา,10 องศา,15 องศา,25 องศา,none,3,q31.png,none,none,none,none,none
+32,จากรูปที่กำหนดให้ มุม C มีค่าเท่าใด,5 องศา,10 องศา,15 องศา,25 องศา,none,3,q32.png,none,none,none,none,none
+33,จากรูปที่กำหนดให้ มุม D มีค่าเท่าใด,45 องศา,75 องศา,135 องศา,ผิดทุกข้อ,none,1,q33.png,none,none,none,none,none
+34,จากรูปที่กำหนดให้ มุม E มีค่าเท่าใด,75 องศา,105 องศา,115 องศา,135 องศา,none,2,q34.png,none,none,none,none,none
+35,กระดาษขนาด A3 ที่ใช้ในงานเขียนแบบมีขนาดเท่าใด,297 คูณ 210 ตารางมิลลิเมตร,420 คูณ 279 ตารางมิลลิเมตร,297 คูณ 240 ตารางมิลลิเมตร,420 คูณ 297 ตารางมิลลิเมตร,none,4,none,none,none,none,none,none
+36,การเขียนตัวอักษรงานเขียนแบบใช้เส้นขนาดใด,(1/10)h,(2/10)h,(7/10)h,(10/10)h,none,1,none,none,none,none,none,none
+37,ภาพใดแสดงเกลียวตามแบบมาตรฐาน,none,none,none,none,none,3,none,a37.png,b37.png,c37.png,d37.png,none
+38,ภาพใดแสดง เกลียวน๊อตตามแบบมาตรฐาน,none,none,none,none,none,3,none,a38.png,b38.png,c38.png,d38.png,none
+39,มาตราส่วนใดเป็นมาตราส่วนขยาย,2:1,1:2.5,1:5,1:1,none,1,none,none,none,none,none,none
+40,ขอบชิ้นงานยาว 120 มม. ใช้มาตราส่วน 1:2.5 ต้องเขียนยาวเท่าใด,300 มม.,48 มม.,120 มม.,25 มม.,none,2,none,none,none,none,none,none
+41,ขนาดในแบบยาว 30 มม. เมื่อใช้มาตราส่วน 5:1 จะเขียนขนาดเท่าใด,5,30,6,150,none,4,none,none,none,none,none,none
+42,มาตราส่วนใดเป็นมาตราส่วนย่อมาตรฐาน,2:1,1:3,1:2,1:4,none,3,none,none,none,none,none,none
+43,เส้นมือเปล่าใช้เมื่อไร,แสดงลายตัดชิ้นงาน,ขอบชิ้นงานที่มองเห็น,ขอบชิ้นงานที่มองไม่เห็น,เส้นตัดย่อส่วน,none,4,none,none,none,none,none,none
+44,ตัวเลขใดเขียนผิดจากมาตรฐาน,none,none,none,none,none,3,none,a44.png,b44.png,c44.png,d44.png,none
+45,ความสูงใด ที่ไม่ใช่ความสูงตัวอักษรมาตรฐาน,h = 2.5 มม.,h = 3.0 มม.,h = 3.5 มม.,h = 7.0 มม.,none,2,none,none,none,none,none,none
+46,ขนาดเส้นใด เขียนอักษรมาตรฐานเทียบกับความสูง,1/10,2/10,3/10,5/10,none,1,none,none,none,none,none,none
+47,อักษรพิมพ์ใหญ่สูงเท่าไร,7/10,8/10,9/10,10/10,none,4,none,none,none,none,none,none
+48,แบบใดเขียนได้ถูกตามเงื่อนไข,none,none,none,none,none,3,none,a48.png,b48.png,c48.png,d48.png,none
+49,เมื่อไรเขียนแบบหน้าแปลนครึ่งภาพ แทนการเขียนแบบสมบูรณ์เต็มภาพ ดังรูปต่อไปนี้,เมื่อเป็นหน้าแปลนกลม,เมื่อมีเนื้อที่จำกัด,เมื่อ 2 ข้างเหมือนกัน,เมื่อรูปร่างสมมาตร,none,4,q49.png,none,none,none,none,none
+50,การเขียนแบบหน้าแปลนอย่างง่ายที่สุดเขียนอย่างไร,เขียนแบบเพียงครึ่งภาพ,เขียนย่อส่วน,แสดงรูยึดไว้ภาพด้านหน้าโดยตรง,ไม่แสดงสัญลักษณ์คุณภาพผิว,none,3,none,none,none,none,none,none
+51,เส้นลูกโซ่บาง ไม่ใช้แสดงเส้นอะไร,เส้นศูนย์กลาง,วงกลมตัดบางส่วน,เส้นตัดเลื่อนแนว,อ้างอิงการแปรรูปชิ้นงาน,none,3,none,none,none,none,none,none
+52,เส้นเต็มบางไม่ใช้แสดงเส้นอะไร,เส้นกำหนดขนาด,เส้นแนวพับชิ้นงาน,เส้นโคนเกลียว,ชุบแข็งเพียงบางส่วน,none,4,none,none,none,none,none,none
+53,เส้นทะแยงมุมแสดงด้วยเส้นอะไร,เส้นเต็มหนา,เส้นลูกโซ่หนา,เส้นเต็มบาง,เส้นประ,none,3,none,none,none,none,none,none
+54,มาตราส่วนใดไม่อยู่ในมาตราส่วยย่อ,1:2,1:3,1:5,1:10,none,2,none,none,none,none,none,none
+55,เส้นเต็มบาง (เส้นทแยงมุมในรูปสี่เหลี่ยมบน) แสดงถึงอะไร,ไม่ชุบแข็ง,แสดงถึงพื้นราบ,แสดงกรรมวิธีแปรสภาพงานพิเศษ,ส่วนเสริมตัดออกได้,none,2,q55.png,none,none,none,none,none
+56,ภาพคันโยกเส้นลูกโซ่คืออะไร,คันโยก 2 อัน 3 ตำแหน่ง,คันโยกเดียว 2 ตำแหน่ง,เพิ่มได้อีก 2 คันโยก,ให้ระวังการเลื่อนเกิน,none,2,q56.png,none,none,none,none,none
+57,มาตราส่วน 1:5 เป็นมาตราส่วนแบบใด,มาตราส่วนเท่าของจริง,มาตราส่วนย่อ,มาตราส่วนขยาย,ไม่ใช่มาตราส่วนที่ใช้ในการเขียนแบบ,none,2,none,none,none,none,none,none
+58,มาตราส่วน 5:1 เป็นมาตราส่วนแบบใด,มาตราส่วนเท่าของจริง,มาตราส่วนย่อ,มาตราส่วนขยาย,ไม่ใช่มาตราส่วนที่ใช้ในการเขียนแบบ,none,3,none,none,none,none,none,none
+59,ข้อใดเป็นการเรียงลำดับไส้ดินสอจากอ่อนไปแข็งที่ใช้ในการเขียนแบบที่ถูกต้อง,"6H, 4H, 2H, F ","4H, 3H, 2H, B ","B, HB, 2H, 3H ","HB, 2H, 3H, 4H ",none,4,none,none,none,none,none,none
+60,เส้นเต็มบางใช้เขียนเส้นใดต่อไปนี้,เส้นแสดงลายตัด เส้นชี้ เส้นบอกขนาด,เส้นขอบรูปที่ถูกบัง เส้นแสดงแนวตัด เส้นลายไม้,เส้นตัดแตก เส้นผ่านศูนย์กลาง เส้นแสดงขอบเขตการชุบแข็ง,ไม่มีคำตอบที่ถูกต้อง,none,1,none,none,none,none,none,none
+61,"จากรูปข้างล่างนี้ตำแหน่ง A, B, C เป็นเส้นชนิดใดตามลำดับ",เส้นเต็มหนา เส้นมือเปล่า เส้นประ,เส้นเต็มหนา เส้นเต็มบาง เส้นประ ,เส้นเต็มหนา เส้นมือเปล่า เส้นลูกโซ่หนา,เส้นเต็มหนา เส้นลูกโซ่หนา เส้นมือเปล่า ,none,2,q61.png,none,none,none,none,none
+62,การเขียนรูปแปดเหลี่ยมอยู่ภายในรูปวงกลม โดยที่เส้นรอบวงของวงกลมลากผ่านมุมทุกมุมของรูปแปดเหลี่ยมพอดี ข้อใดต่อไปนี้กล่าวถูกต้อง,มุมทุกมุมภายในรูปแปดเหลี่ยมมีขนาดเท่ากับ 150 องศา,รัศมีของวงกลม ยาวเท่ากับเส้นตรงที่ลากจากมุมหนึ่งผ่านจุดศูนย์กลางไปยังมุมตรงข้ามของรูปแปดเหลี่ยม (across corners),เส้นผ่านศูนย์กลางของวงกลม ยาวเท่ากับความยาวด้านของรูปแปดเหลี่ยม,เส้นผ่านศูนย์กลางของวงกลม ยาวเท่ากับเส้นตรงที่ลากจากมุมหนึ่งผ่านจุดศูนย์กลางไปยังมุมตรงข้ามของรูปแปดเหลี่ยม (across corners),none,4,none,none,none,none,none,none
+63,การวัดขนาดความยาวในงานเขียนแบบตามมาตรฐาน ISO (International Standards Organization) ใช้ระบบหน่วยการวัดในข้อใด,หน่วยอังกฤษ (English units),หน่วยตะวันตก (Western units),หน่วยเมตริก (Metric units),องศาและเรเดียล (Degrees and radians),none,3,none,none,none,none,none,none
+64,จากรูปห้าเหลี่ยมด้านเท่าที่กำหนดให้ มุม COE มีค่าเป็นกี่องศา,60 องศา,100 องศา,120 องศา,144 องศา,none,4,q64.png,none,none,none,none,none
+65,สัญลักษณ์ของมุมที่ 1 (First Angle) เป็นอย่างไร,none,none,none,none,none,3,none,a65.png,b65.png,c65.png,d65.png,none
+66,เส้นบนภาพเขียน (Drawings) อาจมีความหมาย หมายถึง,ระนาบที่มองเห็นเป็นสัน (Edge View),รอยตัดระหว่างระนาบสองอัน (Intersection),ขอบของระนาบโค้ง (Surface Limit),ถูกทุกข้อ,none,4,none,none,none,none,none,none
+67,ข้อใดถูกต้องเกี่ยวกับขนาดของระนาบ “A” ในรูป Front View,เป็นขนาดจริง (True Shape),เป็นขนาดที่เล็กลง (Foreshortened),เป็นขนาดที่ใหญ่ขึ้น (Enlarge),อาจมีขนาดเท่าขนาดจริง หรือใหญ่ขึ้น หรือเล็กลงก็ได้,none,2,q67.png,none,none,none,none,none
+68,ข้อใดถูกต้องเกี่ยวกับขนาดของระนาบ “A” ในรูป Right Side View,เป็นขนาดจริง (True Shape),เป็นขนาดที่เล็กลง (Foreshortened),เป็นขนาดที่ใหญ่ขึ้น (Enlarge),อาจมีขนาดเท่าขนาดจริง หรือใหญ่ขึ้น หรือเล็กลงก็ได้,none,1,q68.png,none,none,none,none,none
+69,"ระนาบ ""P"" ในรูป Top Views สัมพันธ์กับระนาบใดในรูป Front View และ Right Side View",a กับ A,b กับ B,"a และเห็นเป็นเส้น (Edge View) ""C"" ในรูป Right Side View","เห็นเป็นเส้น (Edge View) ""c"" ในรูป Front View และ ""C"" ในรูป Right Side View",none,1,q69.png,none,none,none,none,none
+70,จากภาพฉายระบบ Third Angle Projection ที่กำหนดให้ ระนาบ “P” ในรูป Top Views สัมพันธ์กับข้อใดในรูป Front View,a,เห็นเป็นเส้น (Edge View) “b”,เห็นเป็นเส้น (Edge View) “c”,d,none,2,q70.png,none,none,none,none,none
+71,จากภายฉายระบบ Third Angle Projection ที่กำหนดให้ ระนาบ “P” ในรูป Top Views สัมพันธ์กับข้อใดในรูป Front View,a,เห็นเป็นเส้น (Edge View) “b”,เห็นเป็นเส้น (Edge View) “c”,d,none,3,q71.png,none,none,none,none,none
+72,ระนาบ “P” ในรูป Front View สัมพันธ์กับระนาบใดในรูป Right Side View,a,เห็นเป็นเส้น (Edge View) “b”,เห็นเป็นเส้น (Edge View) “c”,d,none,1,q72.png,none,none,none,none,none
+73,การแสดงภาพของวัตถุด้วยภาพฉาย (Projection) ในลักษณะต่อไปนี้ เรียกว่า,ภาพฉายออร์โทกราฟิก (Orthographic Projection) และ ภาพฉายไอโซเมทริกซ์ (Isometric Projection),ภาพฉายไอโซเมทริกซ์ (Isometric Projection),ภาพฉายออร์โทกราฟิก (Orthographic Projection),ภาพฉายออบบริก (Oblique Projection),none,1,q73.png,none,none,none,none,none
+74,การแสดงภาพของวัตถุด้วยภาพฉาย (Projection) ในลักษณะต่อไปนี้ เรียกว่า,ภาพฉายออร์โทกราฟิก (Orthographic Projection),ภาพฉายไอโซเมทริกซ์ (Isometric Projection),ภาพฉายออบบริก (Oblique Projection),ภาพฉายเพอสเปกทีพ (Perspective Projection),none,2,q74.png,none,none,none,none,none
+75,การแสดงภาพของวัตถุด้วยภาพฉาย (Projection) ในลักษณะข้างล่างนี้ เรียกว่า,ภาพฉายออร์โทกราฟิก (Orthographic Projection),ภาพฉายไอโซเมทริกซ์ (Isometric Projection),ภาพฉายออบบริก (Oblique Projection),ภาพฉายเพอสเปกทีพ (Perspective Projection),none,3,q75.png,none,none,none,none,none
+76,การแสดงภาพของวัตถุด้วยภาพฉาย (Projection) ในลักษณะข้างล่างนี้ เรียกว่า,ภาพฉายออร์โทกราฟิก (Orthographic Projection),ภาพฉายไอโซเมทริกซ์ (Isometric Projection),ภาพฉายออบบริก (Oblique Projection),ภาพฉายเพอสเปกทีพ (Perspective Projection),none,4,q76.png,none,none,none,none,none
+77,รูป Orthographic Drawing ข้างล่างนี้ สัมพันธ์กับวัตถุในข้อใด,none,none,none,ไม่มีข้อใดถูก,none,1,q77.png,a77.png,b77.png,c77.png,none,none
+78,รูป Orthographic Drawing ข้างล่างนี้ สัมพันธ์กับวัตถุในข้อใด,none,none,none,ไม่มีข้อใดถูก,none,1,q78.png,a78.png,b78.png,c78.png,none,none
+79,รูป Pictorial Drawing ข้างล่างนี้ สัมพันธ์กับรูป Orthographic ในรูปใด,none,none,none,none,none,4,q79.png,a79.png,b79.png,c79.png,d79.png,none
+80,กำหนดวัตถุดังรูป ภาพฉายรูปใดเขียนได้ถูกต้อง,none,none,none,none,none,1,q80.png,a80.png,b80.png,c80.png,d80.png,none
+81,กำหนดวัตถุดังภาพด้านล่าง ภาพใดต่อไปนี้เป็นการวางภาพฉายแบบออร์โธกราฟฟิก แบบมุมที่ 1 ได้ถูกต้อง,none,none,none,none,none,4,q81.png,a81.png,b81.png,c81.png,d81.png,none
+82,เป็นสัญลักษณ์การเขียนแบบภาพฉายตามข้อใด,การเขียนภาพฉายมุมที่ 1 (First Angle Projection),การเขียนภาพฉายมุมที่ 2 (Second Angle Projection),การเขียนภาพฉายมุมที่ 3 (Third Angle Projection),การเขียนภาพฉายมุมที่ 5 (Fifth Angle Projection),none,3,q82.png,none,none,none,none,none
+83,การเขียนภาพฉายมุมที่ 1 (First Angle Projection) เป็นการเขียนแบบภาพฉายระบบใด,ระบบยุโรป,ระบบอเมริกัน,ระบบเอเชีย,ระบบญี่ปุ่น,none,1,q83.png,none,none,none,none,none
+84,ข้อใดเป็นภาพแสดงมุมมองที่ถูกต้อง ตามทิศทางลูกศรชี้ของภาพสามมิติที่กำหนดให้ (ภาพในข้อสอบได้ละเว้นเส้นผ่านศูนย์กลางของวงกลมหรือทรงกระบอก),none,none,none,none,none,2,q84.png,a84.png,b84.png,c84.png,d84.png,none
+85,ภาพแสดงมุมมองที่หายไปของภาพฉายต่อไปนี้คือข้อใด,none,none,none,none,none,1,q85.png,a85.png,b85.png,c85.png,d85.png,none
+86,ภาพแสดงมุมมองที่หายไปของภาพฉายต่อไปนี้คือข้อใด,none,none,none,none,none,2,q86.png,a86.png,b86.png,c86.png,d86.png,none
+87,จงเลือกภาพฉายด้านบนให้ตรงกับภาพฉายด้านหน้า และภาพฉายด้านข้างที่กำหนดให้,none,none,none,none,none,2,q87.png,a87.png,b87.png,c87.png,d87.png,none
+88,เมื่อพิจารณาเส้นตรงเส้นหนึ่ง พบว่าเส้นความยาวจริงของเส้นตรงนี้ปรากฏที่ภาพด้านหน้า และภาพด้านบน ภาพด้านข้างจะปรากฏเป็นรูปร่างใด,เส้นตรงความยาวไม่จริง,เส้นตรงความยาวจริง,จุด,เส้นเอียงความยาวไม่จริง,none,3,none,none,none,none,none,none
+89,ในการพิจารณาเส้นตรงเส้นหนึ่ง หากพบว่าที่ภาพด้านหน้าปรากฏเป็นเส้นความยาวไม่จริงของเส้นตรงเส้นนี้ ที่ภาพด้านข้างปรากฏเป็นเส้นความยาวจริง เส้นตรงเส้นนี้จะปรากฏบนภาพด้านบนในลักษณะใด,จุด,เส้นความยาวจริง,เส้นโค้ง,เส้นความยาวไม่จริง,none,4,none,none,none,none,none,none
+90,พิจารณาระนาบหนึ่ง พบว่าที่ภาพด้านหน้าและภาพด้านข้างปรากฏเป็นสันหรือขอบของระนาบ ที่ภาพด้านบนจะปรากฏเป็นรูปร่างใด,ระนาบที่แสดงขนาดจริง,ระนาบที่แสดงขนาดเล็กกว่าความเป็นจริง,ระนาบที่แสดงขนาดใหญ่กว่าความเป็นจริง,สันหรือขอบของระนาบ,none,1,none,none,none,none,none,none
+91,พิจารณาระนาบหนึ่ง พบว่าที่ภาพด้านข้างและภาพด้านบนปรากฏเป็นระนาบที่มีขนาดไม่เท่ากับขนาดจริงของระนาบนี้ ภาพด้านหน้าจะปรากฏเป็นรูปร่างใด,ระนาบที่มีขนาดเล็กว่าขนาดจริงของระนาบนี้,ระนาบที่มีขนาดใหญ่ว่าขนาดจริงของระนาบนี้,สันหรือขอบของระนาบ,ระนาบที่มีขนาดเท่ากับขนาดจริงของระนาบ,none,1,none,none,none,none,none,none
+92,ภาพฉายออร์โธกราฟิกในข้อใด ที่สอดคล้องกับรูปไอโซเมตริกต่อไปนี้,none,none,none,none,none,3,q92.png,a92.png,b92.png,c92.png,d92.png,none
+93,องค์ประกอบของการเขียนภาพฉายตั้งฉาก ของระบบการวางภาพแบบมุมที่ 1 ประกอบด้วยอะไรบ้าง ตามลำดับ,คนมอง ฉากรับภาพ วัตถุ,วัตถุ ฉากรับภาพ คนมอง,คนมอง วัตถุ ฉากรับภาพ,ฉากรับภาพ วัตถุ คนมอง,none,3,none,none,none,none,none,none
+94,จากภาพฉาย ออร์โธกราฟิก ที่กำหนดให้ ภาพไอโซเมตริก ใดถูกต้อง ,none,none,none,none,none,4,q94.png,a94.png,b94.png,c94.png,d94.png,none
+95,ในการเขียนภาพฉายตั้งฉาก 3 ด้าน (Orthographics) ถ้าต้องการดูความสูงของวัตถุ สามารถดูได้จากภาพฉายด้านใด,ทั้ง 3 ด้าน,ด้านหน้า - ด้านบน,ด้านข้าง - ด้านบน,ด้านหน้า - ด้านข้าง,none,4,none,none,none,none,none,none
+96,ภาพ 3 มิติในข้อใดที่ไม่สอดคล้องกับภาพด้านบน ที่กำหนดให้โดยไม่คำนึงถึงเส้น CENTER LINE ,none,none,none,none,none,3,q96.png,a96.png,b96.png,c96.png,d96.png,none
+97,ระนาบ A ในภาพฉายตั้งฉากที่กำหนดให้คือระนาบประเภทใด,ระนาบปกติ,ระนาบเอียง,ระนาบตรง,ระนาบเทเอียง,none,4,q97.png,none,none,none,none,none
+98,จากมุมมองภาพด้านบน(top view)ของการฉายภาพ(orthographic projection) ที่กำหนดให้ ภาพในคำตอบข้อใดไม่สามารถเป็นภาพด้านหน้า(front view)ของมุมมองภาพด้านบนนี้ได้,none,none,none,none,none,4,q98.png,a98.png,b98.png,c98.png,d98.png,none
+99,มุมมองภาพด้านบนดังรูป สอดคล้องกับวัตถุในข้อใด,none,none,none,none,none,2,q99.png,a99.png,b99.png,c99.png,d99.png,none
+100,ภาพสามมิติภาพใดสอดคล้องกับภาพฉายที่กำหนดให้,none,none,none,none,none,1,q100.png,a100.png,b100.png,c100.png,d100.png,none
+101,"จากรูป ระนาบ A, B, C, D และ E เป็นระนาบแบบใดตามลำดับ","Normal Plane, Inclined Plane, Normal Plane, Oblique Plane and Normal Plane","Normal Plane, Oblique Plane, Normal Plane, Oblique Plane and Normal Plane","Normal Plane, Inclined Plane, Normal Plane, Inclined Plane and Normal Plane","Normal Plane, Oblique Plane, Normal Plane, Inclined Plane and Normal Plane",none,1,q101.png,none,none,none,none,none
+102,ข้อใดคือการวางภาพระบบมุมที่ 3.,"Right Side View อยู่มุมบนซ้าย,Front View อยู่มุมบนขวา,Top View อยู่มุมล่างขวา","Right Side View อยู่มุมบนขวา,Front View อยู่มุมล่างขวา,Top View อยู่มุมบนซ้าย","Right Side View อยู่มุมล่างขวา,Front View อยู่มุมล่างซ้าย,Top View อยู่มุมบนซ้าย","Right Side View อยู่มุมล่างซ้าย,Front View อยู่มุมบนขวา,Top View อยู่มุมล่างขวา",none,3,none,none,none,none,none,none
+103,ข้อใดคือการวางภาพระบบมุมที่ 1.,"Right Side View อยู่มุมบนซ้าย,Front View อยู่มุมบนขวา,Top View อยู่มุมล่างขวา","Right Side View อยู่มุมบนขวา,Front View อยู่มุมล่างขวา,Top View อยู่มุมบนซ้าย","Right Side View อยู่มุมล่างขวา,Front View อยู่มุมล่างซ้าย,Top View อยู่มุมบนซ้าย","Right Side View อยู่มุมล่างซ้าย,Front View อยู่มุมบนขวา,Top View อยู่มุมล่างขวา",none,1,none,none,none,none,none,none
+104,จากรูปที่กำหนดให้ด้านไม่ถูกต้อง,ด้านบน,ด้านหน้า,ด้านข้าง,ถูกหมดทุกข้อ,none,4,q104.png,none,none,none,none,none
+105,ภาพไอโซเมตริก ในข้อใดที่สัมพันธ์กับภาพฉาย ด้านบน ด้านหน้า และ ด้านข้างขวา ที่กำหนดให้,none,none,none,none,none,3,q105.png,a105.png,b105.png,c105.png,d105.png,none
+106,ภาพไอโซเมตริกในข้อใด ที่สัมพันธ์กับภาพฉาย ด้านบน ด้านหน้า และ ด้านข้างขวา ที่กำหนดให้,none,none,none,none,none,4,q106.png,a106.png,b106.png,c106.png,d106.png,none
+107,ข้อใดถูกต้อง,none,none,none,none,none,1,none,a107.png,b107.png,c107.png,d107.png,none
+108,จากภาพสามมิติ และภาพด้านหน้าที่กำหนดให้ รูปใดคือภาพด้านบน,none,none,none,none,none,4,q108.png,a108.png,b108.png,c108.png,d108.png,none
+109,จากภาพสามมิติที่กำหนดให้ รูปใดคือภาพด้านบน,none,none,none,none,none,3,q109.png,a109.png,b109.png,c109.png,d109.png,none
+110,เส้นออบบริก (Oblique line) คือ,เป็นเส้นที่แสดงการตัดวัตถุเพื่อให้มองเห็น หรือแสดงส่วนที่มีลักษณะซับซ้อนของวัตถุ ซึ่งไม่สามารถแสดงด้วยภาพฉาย Orthographics ได้,เป็นเส้นที่แสดงให้เห็นว่ามีเนื้อวัตถุบังเส้นอยู่,เป็นเส้นที่วางตัวขนานกับระนาบอ้างอิง 1 ระนาบ,เป็นเส้นที่ไม่วางตัวขนานกับระนาบอ้างอิงใดเลย,none,4,none,none,none,none,none,none
+111,เส้น miter line ต้องมีมุมเท่าใด,15,30,45,60,none,3,none,none,none,none,none,none
+112,จากภาพที่กำหนดให้ เป็นภาพฉายของวัตถุเสมือนจริงแบบ Isometric อยากทราบวัตถุนี้จะมีจำนวนของพื้นผิวเท่าใด,10,11,12,13,none,4,q112.png,none,none,none,none,none
+113,จากรูปที่กำหนดให้ พื้นผิวใดอยู่ด้านบนที่สุด,H,D,A,E,none,3,q113.png,none,none,none,none,none
+114,จากรูปที่กำหนดให้ พื้นผิวใดอยู่ด้านหน้าที่สุด,J,B,C,K,none,4,q114.png,none,none,none,none,none
+115,จงเลือกภาพฉายด้านบนให้ตรงกับภาพฉายด้านหน้า และภาพฉายด้านข้างที่กำหนดให้ ,none,none,none,none,none,2,q115.png,a115.png,b115.png,c115.png,d115.png,none
+116,จงเลือกภาพฉายด้านบนให้ตรงกับภาพฉายด้านหน้า และภาพฉายด้านข้างที่กำหนดให้ ,none,none,none,none,none,1,q116.png,a116.png,b116.png,c116.png,d116.png,none
+117,จงเลือกภาพฉายด้านบนให้ตรงกับภาพฉายด้านหน้า และภาพฉายด้านข้างที่กำหนดให้ ,none,none,none,none,none,4,q117.png,a117.png,b117.png,c117.png,d117.png,none
+118,จากรูปที่กำหนดให้ พื้นผิวใดอยู่ระดับเดียวกันกับพื้นผิว G,K,H,J,H และ K,none,3,q118.png,none,none,none,none,none
+119,จากรูปที่กำหนดให้ พื้นผิวใดอยู่สูงที่สุด,F,B,A,A และ B,none,4,q119.png,none,none,none,none,none
+120,จากรูปที่กำหนดให้ พื้นผิวใดอยู่ระดับเดียวกันกับพื้นผิว D,C,B,E,F,none,1,q120.png,none,none,none,none,none
+121,จากภาพฉายในระบบมุมที่ 3 ที่กำหนดให้ พื้นผิวใดอยู่สูงที่สุด,ผิวที่ 1,ผิวที่ 2,ผิวที่ 3,ผิวที่ 5,none,1,q121.png,none,none,none,none,none
+122,จากภาพฉายในระบบมุมที่ 3 ที่กำหนดให้ พื้นผิวใดเป็นพื้นผิวเอียง,พื้นผิวที่ 25,พื้นผิวที่ 23,พื้นผิวที่ 12,พื้นผิวที่ 13,none,3,q122.png,none,none,none,none,none
+123,จากภาพฉายในระบบมุมที่ 3 ที่กำหนดให้ พื้นผิวใดอยู่สูงที่สุด,ผิวที่ 6,ผิวที่ 14,ผิวที่ 12,ผิวที่ 5,none,2,q123.png,none,none,none,none,none
+124,จากภาพฉายในระบบมุมที่ 3 ที่กำหนดให้ พื้นผิวใดเป็นพื้นผิวเอียง,ผิวที่ 1,ผิวที่ 3,ผิวที่ 29,ผิวที่ 13,none,2,q124.png,none,none,none,none,none
+125,ภาพใดเป็นภาพจากด้านที่ลูกศรชี้,none,none,none,none,none,2,q125.png,a125.png,b125.png,c125.png,d125.png,none
+126,แบบงานสวมต่อกันต่อไปนี้เป็นงานสวมต่ออะไร,แท่งสี่เหลี่ยม 2 อันมีขนาดเท่ากัน,แท่งสามเหลี่ยม 2 อัน,แท่งทรงกระบอกตัน 2 อัน,ทรงกระบอก 2 อันมีขนาดเท่ากัน,none,4,q126.png,none,none,none,none,none
+127,ภาพด้านข้างภาพในแสดงตามแบบมาตรฐาน,none,none,none,none,none,2,q127.png,a127.png,b127.png,c127.png,d127.png,none
+128,ภาพใดแสดงเกลียวในตามแบบมาตรฐาน,none,none,none,none,none,3,none,a128.png,b128.png,c128.png,d128.png,none
+129,ภาพด้านบนที่ถูกต้องคือภาพใด,none,none,none,none,none,3,q129.png,a129.png,b129.png,c129.png,d129.png,none
+130,ภาพฉายขวามือแสดงชิ้นงานด้านใด,ภาพด้านหน้า,ภาพด้านบน,ภาพด้านล่าง,ภาพด้านข้างขวา,none,4,q130.png,none,none,none,none,none
+131,ภาพด้านหน้าและด้านบนเหมือนกัน ภาพใดเป็นภาพด้านข้างที่ถูกมาตรฐาน,none,none,none,none,none,2,q131.png,a131.png,b131.png,c131.png,d131.png,none
+132,ภาพด้านหน้าและภาพด้านบนเหมือนกัน ชิ้นงานไม่ใช่ทรงกลม ภาพด้านข้างที่ถูกต้องคือภาพใด,none,none,none,none,none,3,q132.png,a132.png,b132.png,c132.png,d132.png,none
+133,ภาพด้านหน้าและภาพด้านบนเหมือนกัน ชิ้นงานไม่ใช่ทรงกลม ภาพด้านข้างที่ถูกต้องคือภาพใด,none,none,none,none,none,3,q133.png,a133.png,b133.png,c133.png,d133.png,none
+134,ภาพฉาย 3 ด้านชุดใด ที่แสดงลักษณะภาพ 3 มิติ ได้ถูกต้อง,none,none,none,none,none,2,q134.png,a134.png,b134.png,c134.png,d134.png,none
+135,ภาพใด เป็นภาพด้านหน้าของภาพ 3 มิติตามทิศทางลูกศร,none,none,none,none,none,1,q135.png,a135.png,b135.png,c135.png,d135.png,none
+136,จาพภาพฉายด้านข้างของทรงกรวย เมื่อมองตามมุมมองด้านบน พื้นที่ภาคตัดเอียงผ่านปลายทรงกรวยเป็นลักษณะใด,วงกลม,วงรี,สามเหลี่ยม,พาราโบลา,none,4,q136.png,none,none,none,none,none
+137,จากภาพฉายด้านข้างของทรงกรวย เมื่อมองตามมุมมองด้านบน พื้นที่ภาคตัดเอียงกับแกนทรงกรวยเป็นลักษณะใด,สามเหลี่ยม,พาราโบลา,วงรี,วงกลม,none,4,q137.png,none,none,none,none,none
+138,ภาพด้านบนพื้นที่ภาคตัดทรงกระบอก เป็นลักษณะใด,วงรี,วงกลม,ครึ่งวงกลม,พาราโบลา,none,1,q138.png,none,none,none,none,none
+139,ภาพด้านบนพื้นที่ภาคตัดทรงกระบอกเป็นลักษณะใด,วงรี,พาราโบลา,ครึ่งวงกลม,วงกลม,none,4,q139.png,none,none,none,none,none
+140,ทรงกระบอกที่มีขนาดเท่ากันสวมต่อกันตามแนวเส้นศูนย์กลางโดยตรง แบบที่ถูกต้องคือแบบใด,none,none,none,none,none,2,none,a140.png,b140.png,c140.png,d140.png,none
+141,จากภาพด้านข้างทรงกระบอกตัด จงหาภาพด้านหน้าที่ถูกต้อง,none,none,none,none,none,2,q141.png,a141.png,b141.png,c141.png,d141.png,none
+142,ภาพใดคือภาพด้านหน้าของภาพ 3 มิติที่กำหนดให้,none,none,none,none,none,1,q142.png,a142.png,b142.png,c142.png,d142.png,none
+143,ภาพใดคือภาพด้านหน้าของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q143.png,a143.png,b143.png,c143.png,d143.png,none
+144,ภาพใดคือภาพด้านหน้าของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q144.png,a144.png,b144.png,c144.png,d144.png,none
+145,ภาพใดคือภาพด้านหน้าของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q145.png,a145.png,b145.png,c145.png,d145.png,none
+146,ภาพใดคือภาพด้านหน้าของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q146.png,a146.png,b146.png,c146.png,d146.png,none
+147,ภาพใดคือภาพด้านข้างของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q147.png,a147.png,b147.png,c147.png,d147.png,none
+148,ภาพใดคือภาพด้านข้างของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q148.png,a148.png,b148.png,c148.png,d148.png,none
+149,ภาพใดคือภาพด้านข้างของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q149.png,a149.png,b149.png,c149.png,d149.png,none
+150,ภาพใดคือภาพด้านข้างของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q150.png,a150.png,b150.png,c150.png,d150.png,none
+151,ภาพใดคือภาพด้านข้างของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q151.png,a151.png,b151.png,c151.png,d151.png,none
+152,ภาพใดคือภาพด้านบนของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,3,q152.png,a152.png,b152.png,c152.png,d152.png,none
+153,ภาพใดคือภาพด้านบนของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,3,q153.png,a153.png,b153.png,c153.png,d153.png,none
+154,ภาพใดคือภาพด้านบนของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,3,q154.png,a154.png,b154.png,c154.png,d154.png,none
+155,ภาพใดคือภาพด้านบนของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,3,q155.png,a155.png,b155.png,c155.png,d155.png,none
+156,จากภาพด้านหน้าที่กำหนด จงเลือกภาพด้านข้าง,none,none,none,none,none,1,q156.png,a156.png,b156.png,c156.png,d156.png,none
+157,จากภาพด้านหน้าที่กำหนด จงเลือกภาพด้านข้าง,none,none,none,none,none,1,q157.png,a157.png,b157.png,c157.png,d157.png,none
+158,จากภาพด้านหน้าที่กำหนด จงเลือกภาพด้านข้าง,none,none,none,none,none,1,q158.png,a158.png,b158.png,c158.png,d158.png,none
+159,จากภาพด้านหน้าที่กำหนด จงเลือกภาพด้านข้าง,none,none,none,none,none,1,q159.png,a159.png,b159.png,c159.png,d159.png,none
+160,จากภาพด้านหน้าที่กำหนด จงเลือกภาพด้านข้าง,none,none,none,none,none,1,q160.png,a160.png,b160.png,c160.png,d160.png,none
+161,จากภาพด้านหน้าที่กำหนด จงเลือกภาพด้านข้าง,none,none,none,none,none,1,q161.png,a161.png,b161.png,c161.png,d161.png,none
+162,จากภาพด้านหน้าที่กำหนด จงเลือกภาพด้านบน,none,none,none,none,none,1,q162.png,a162.png,b162.png,c162.png,d162.png,none
+163,จากภาพด้านหน้าที่กำหนด จงเลือกภาพด้านบน,none,none,none,none,none,1,q163.png,a163.png,b163.png,c163.png,d163.png,none
+164,จากภาพด้านหน้าที่กำหนด จงเลือกภาพด้านบน,none,none,none,none,none,1,q164.png,a164.png,b164.png,c164.png,d164.png,none
+165,จากภาพด้านหน้าที่กำหนด จงเลือกภาพด้านบน,none,none,none,none,none,1,q165.png,a165.png,b165.png,c165.png,d165.png,none
+166,จากภาพด้านหน้าที่กำหนด จงเลือกภาพด้านบน,none,none,none,none,none,1,q166.png,a166.png,b166.png,c166.png,d166.png,none
+167,จากภาพด้านหน้าที่กำหนด จงเลือกภาพด้านบน,none,none,none,none,none,1,q167.png,a167.png,b167.png,c167.png,d167.png,none
+168,ภาพใดคือภาพด้านหน้าของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q168.png,a168.png,b168.png,c168.png,d168.png,none
+169,ภาพใดคือภาพด้านหน้าของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q169.png,a169.png,b169.png,c169.png,d169.png,none
+170,ภาพใดคือภาพด้านหน้าของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q170.png,a170.png,b170.png,c170.png,d170.png,none
+171,ภาพใดคือภาพด้านหน้าของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q171.png,a171.png,b171.png,c171.png,d171.png,none
+172,ภาพใดคือภาพด้านหน้าของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q172.png,a172.png,b172.png,c172.png,d172.png,none
+173,ภาพใดคือภาพด้านข้างของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q173.png,a173.png,b173.png,c173.png,d173.png,none
+174,ภาพใดคือภาพด้านข้างของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q174.png,a174.png,b174.png,c174.png,d174.png,none
+175,ภาพใดคือภาพด้านข้างของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q175.png,a175.png,b175.png,c175.png,d175.png,none
+176,ภาพใดคือภาพด้านข้างของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q176.png,a176.png,b176.png,c176.png,d176.png,none
+177,ภาพใดคือภาพด้านข้างของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q177.png,a177.png,b177.png,c177.png,d177.png,none
+178,ภาพใดคือภาพด้านบนของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,3,q178.png,a178.png,b178.png,c178.png,d178.png,none
+179,ภาพใดคือภาพด้านบนของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,3,q179.png,a179.png,b179.png,c179.png,d179.png,none
+180,ภาพใดคือภาพด้านบนของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,3,q180.png,a180.png,b180.png,c180.png,d180.png,none
+181,ภาพใดคือภาพด้านบนของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,3,q181.png,a181.png,b181.png,c181.png,d181.png,none
+182,ภาพใดคือภาพด้านบนของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,3,q182.png,a182.png,b182.png,c182.png,d182.png,none
+183,ภาพใดคือภาพด้านหน้าของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q183.png,a183.png,b183.png,c183.png,d183.png,none
+184,ภาพใดคือภาพด้านหน้าของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q184.png,a184.png,b184.png,c184.png,d184.png,none
+185,ภาพใดคือภาพด้านหน้าของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q185.png,a185.png,b185.png,c185.png,d185.png,none
+186,ภาพใดคือภาพด้านหน้าของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q186.png,a186.png,b186.png,c186.png,d186.png,none
+187,ภาพใดคือภาพด้านหน้าของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q187.png,a187.png,b187.png,c187.png,d187.png,none
+188,ภาพใดคือภาพด้านข้างของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q188.png,a188.png,b188.png,c188.png,d188.png,none
+189,ภาพใดคือภาพด้านข้างของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q189.png,a189.png,b189.png,c189.png,d189.png,none
+190,ภาพใดคือภาพด้านข้างของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q190.png,a190.png,b190.png,c190.png,d190.png,none
+191,ภาพใดคือภาพด้านข้างของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q191.png,a191.png,b191.png,c191.png,d191.png,none
+192,ภาพใดคือภาพด้านข้างของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q192.png,a192.png,b192.png,c192.png,d192.png,none
+193,ภาพใดคือภาพด้านบนของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,3,q193.png,a193.png,b193.png,c193.png,d193.png,none
+194,ภาพใดคือภาพด้านบนของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,3,q194.png,a194.png,b194.png,c194.png,d194.png,none
+195,ภาพใดคือภาพด้านบนของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,3,q195.png,a195.png,b195.png,c195.png,d195.png,none
+196,ภาพใดคือภาพด้านบนของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,3,q196.png,a196.png,b196.png,c196.png,d196.png,none
+197,ภาพใดคือภาพด้านบนของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,3,q197.png,a197.png,b197.png,c197.png,d197.png,none
+198,จงหาภาพด้านหน้าที่ถูกต้องของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q198.png,a198.png,b198.png,c198.png,d198.png,none
+199,จงหาภาพด้านหน้าที่ถูกต้องของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q199.png,a199.png,b199.png,c199.png,d199.png,none
+200,จงหาภาพด้านหน้าที่ถูกต้องของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q200.png,a200.png,b200.png,c200.png,d200.png,none
+201,จงหาภาพด้านหน้าที่ถูกต้องของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q201.png,a201.png,b201.png,c201.png,d201.png,none
+202,จงหาภาพด้านหน้าที่ถูกต้องของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q202.png,a202.png,b202.png,c202.png,d202.png,none
+203,จงหาภาพด้านบนที่ถูกต้องของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q203.png,a203.png,b203.png,c203.png,d203.png,none
+204,จงหาภาพด้านบนที่ถูกต้องของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q204.png,a204.png,b204.png,c204.png,d204.png,none
+205,จงหาภาพด้านบนที่ถูกต้องของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q205.png,a205.png,b205.png,c205.png,d205.png,none
+206,จงหาภาพด้านบนที่ถูกต้องของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q206.png,a206.png,b206.png,c206.png,d206.png,none
+207,จงหาภาพด้านบนที่ถูกต้องของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q207.png,a207.png,b207.png,c207.png,d207.png,none
+208,จงหาภาพด้านข้างที่ถูกต้องของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q208.png,a208.png,b208.png,c208.png,d208.png,none
+209,จงหาภาพด้านข้างที่ถูกต้องของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q209.png,a209.png,b209.png,c209.png,d209.png,none
+210, จงหาภาพด้านข้างที่ถูกต้องของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q210.png,a210.png,b210.png,c210.png,d210.png,none
+211,จงหาภาพด้านข้างที่ถูกต้องของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q211.png,a211.png,b211.png,c211.png,d211.png,none
+212,จงหาภาพด้านข้างที่ถูกต้องของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q212.png,a212.png,b212.png,c212.png,d212.png,none
+213,ภาพใดคือภาพด้านหน้าของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q213.png,a213.png,b213.png,c213.png,d213.png,none
+214,ภาพใดคือภาพด้านหน้าของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q214.png,a214.png,b214.png,c214.png,d214.png,none
+215,ภาพใดคือภาพด้านหน้าของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q215.png,a215.png,b215.png,c215.png,d215.png,none
+216,ภาพใดคือภาพด้านหน้าของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q216.png,a216.png,b216.png,c216.png,d216.png,none
+217,ภาพใดคือภาพด้านหน้าของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q217.png,a217.png,b217.png,c217.png,d217.png,none
+218,ภาพใดคือภาพด้านบนของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q218.png,a218.png,b218.png,c218.png,d218.png,none
+219,ภาพใดคือภาพด้านบนของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q219.png,a219.png,b219.png,c219.png,d219.png,none
+220,ภาพใดคือภาพด้านบนของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q220.png,a220.png,b220.png,c220.png,d220.png,none
+221,ภาพใดคือภาพด้านบนของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q221.png,a221.png,b221.png,c221.png,d221.png,none
+222,ภาพใดคือภาพด้านบนของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q222.png,a222.png,b222.png,c222.png,d222.png,none
+223,ภาพใดคือภาพด้านข้างของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q223.png,a223.png,b223.png,c223.png,d223.png,none
+224,ภาพใดคือภาพด้านข้างของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q224.png,a224.png,b224.png,c224.png,d224.png,none
+225,ภาพใดคือภาพด้านข้างของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q225.png,a225.png,b225.png,c225.png,d225.png,none
+226,ภาพใดคือภาพด้านข้างของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q226.png,a226.png,b226.png,c226.png,d226.png,none
+227,ภาพใดคือภาพด้านข้างของภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,1,q227.png,a227.png,b227.png,c227.png,d227.png,none
+228,จงเลือกภาพที่ตรงกับภาพ 3 มิติที่กำหนดให้,none,none,none,none,none,2,q228.png,a228.png,b228.png,c228.png,d228.png,none
+229,จงเลือกภาพที่ตรงกับภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q229.png,a229.png,b229.png,c229.png,d229.png,none
+230,จงเลือกภาพที่ตรงกับภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q230.png,a230.png,b230.png,c230.png,d230.png,none
+231,จงเลือกภาพที่ตรงกับภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q231.png,a231.png,b231.png,c231.png,d231.png,none
+232,จงเลือกภาพที่ตรงกับภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q232.png,a232.png,b232.png,c232.png,d232.png,none
+233,จงเลือกภาพที่ตรงกับภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q233.png,a233.png,b233.png,c233.png,d233.png,none
+234,จงเลือกภาพที่ตรงกับภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q234.png,a234.png,b234.png,c234.png,d234.png,none
+235,จงเลือกภาพที่ตรงกับภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q235.png,a235.png,b235.png,c235.png,d235.png,none
+236,จงเลือกภาพที่ตรงกับภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q236.png,a236.png,b236.png,c236.png,d236.png,none
+237,จงเลือกภาพที่ตรงกับภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q237.png,a237.png,b237.png,c237.png,d237.png,none
+238,จงเลือกภาพที่ตรงกับภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q238.png,a238.png,b238.png,c238.png,d238.png,none
+239,จงเลือกภาพที่ตรงกับภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q239.png,a239.png,b239.png,c239.png,d239.png,none
+240,จงเลือกภาพที่ตรงกับภาพ 3 มิติ ที่กำหนดให้,none,none,none,none,none,2,q240.png,a240.png,b240.png,c240.png,d240.png,none
+241,ข้อใดเป็นภาพแสดงมุมมองที่ถูกต้อง ตามทิศทางลูกศรชี้ของภาพสามมิติที่กำหนดให้ ,none,none,none,none,none,1,q241.png,a241.png,b241.png,c241.png,d241.png,none
+242,ข้อใดเป็นภาพแสดงมุมมองที่ถูกต้อง ตามทิศทางลูกศรชี้ของภาพสามมิติที่กำหนดให้ ,none,none,none,none,none,4,q242.png,a242.png,b242.png,c242.png,d242.png,none
+243,ข้อใดเป็นภาพแสดงมุมมองที่ถูกต้อง ตามทิศทางลูกศรชี้ของภาพสามมิติที่กำหนดให้ ,none,none,none,ไม่มีข้อใดถูก,none,4,q243.png,a243.png,b243.png,c243.png,none,none
+244,ภาพแสดงมุมมองที่หายไปของภาพฉายต่อไปนี้คือข้อใด,none,none,none,none,none,3,q244.png,a244.png,b244.png,c244.png,d244.png,none
+245,ภาพแสดงมุมมองที่หายไปของภาพฉายต่อไปนี้คือข้อใด,none,none,none,none,none,4,q245.png,a245.png,b245.png,c245.png,d245.png,none
+246,ภาพแสดงมุมมองที่หายไปของภาพฉายต่อไปนี้คือข้อใด,none,none,none,none,none,1,q246.png,a246.png,b246.png,c246.png,d246.png,none
+247,มุมมองภาพช่วยที่แสดงรูปร่างที่แท้จริงของพื้นผิว จะต้องฉายไปจาก.................เสมอ,ระนาบอ้างอิง (Reference plane),มุมมองด้านหน้า (Front view),มุมมองภาพช่วยที่หนึ่ง (Primary auxiliary view),มุมมองที่ขอบ (Edge view) ของรูปร่างที่แท้จริงของพื้นผิว,none,4,none,none,none,none,none,none
+248,การฉายภาพแบบใด ที่มีการฉายจุดไปยังจุดยึดเพียงจุดเดียว,การฉายภาพระบบมุมมองที่หนึ่ง (First angles projection),การฉายภาพระบบมุมมองที่สาม (Third angles projection),การฉายภาพแบบแอคโซโนเมตริก (Axonometric projection),การฉายภาพแบบเพอสเปคทีฟ (Perspective projection),none,4,none,none,none,none,none,none
+249,ภาพแสดงมุมมองที่หายไปของภาพฉายต่อไปนี้ คือข้อใด ,none,none,none,none,none,1,q249.png,a249.png,b249.png,c249.png,d249.png,none
+250,ข้อใดเป็นภาพแสดงมุมมองที่ถูกต้อง ตามทิศทางลูกศรชี้ของภาพสามมิติที่กำหนดให้,none,none,none,none,none,4,q250.png,a250.png,b250.png,c250.png,d250.png,none
+251,ภาพแสดงมุมมองที่หายไปของภาพฉายต่อไปนี้คือข้อใด,none,none,none,none,none,1,q251.png,a251.png,b251.png,c251.png,d251.png,none
+252,ภาพแสดงมุมมองที่หายไปของภาพฉายต่อไปนี้คือข้อใด ,none,none,none,none,none,3,q252.png,a252.png,b252.png,c252.png,d252.png,none
+253,การวางตำแหน่งรูปภาพฉายออร์โธกราฟฟิคแบบมุมที่ 1 รูปใดถูกต้องเมื่อกำหนดการมองดังรูป,none,none,none,none,none,1,q253.png,a253.png,b253.png,c253.png,d253.png,none
+254,การวางตำแหน่งรูปภาพฉายออร์โธกราฟฟิคแบบมุมที่ 3 รูปใดถูกต้องเมื่อกำหนดการมองดังรูป,none,none,none,none,none,4,q254.png,a254.png,b254.png,c254.png,d254.png,none
+255,การวางตำแหน่งรูปภาพฉายออร์โธกราฟฟิคแบบมุมที่ 3 รูปใดถูกต้องเมื่อกำหนดการมองดังรูป,none,none,none,none,none,4,q255.png,a255.png,b255.png,c255.png,d255.png,none
+256,รูปที่กำหนดให้ต่อไปนี้ค่าที่หายไปคือค่าอะไร,none,none,none,none,none,1,q256.png,a256.png,b256.png,c256.png,d256.png,none
+257,รูปที่กำหนดให้ต่อไปนี้ค่าที่หายไปคือค่าอะไร,none,none,none,ไม่มีคำตอบที่ถูกต้อง,none,3,q257.png,a257.png,b257.png,c257.png,none,none
+258,รูปที่กำหนดให้ต่อไปนี้ค่าที่หายไปคือค่าอะไร,none,none,none,ไม่มีคำตอบที่ถูกต้อง,none,1,q258.png,a258.png,b258.png,c258.png,none,none
+259,รูปที่กำหนดให้ต่อไปนี้ค่าที่หายไปคือค่าอะไร,none,none,none,ไม่มีคำตอบที่ถูกต้อง,none,2,q259.png,a259.png,b259.png,c259.png,none,none
+260,จงเรียงลำดับลักษณะของชิ้นงานจากรูปที่กำหนดให้ดังต่อไปนี้,รันเอาท์ ฟิลเล็ต ขอบมน,ขอบมน ฟิลเล็ต ดายเอาท์,ฟิลเล็ต ขอบมน ดายเอาท์,รันเอาท์ ฟิลเล็ต ดายเอาท์,none,2,q260.png,none,none,none,none,none
+261,รูปด้านบนรูปใดให้ความหมายที่ถูกต้องกับรูปด้านหน้าที่กำหนดให้ต่อไปนี้,none,none,none,ไม่มีคำตอบที่ถูกต้อง,none,1,q261.png,a261.png,b261.png,c261.png,none,none
+262,ลักษณะของเส้นประที่พบกันในรูปใดไม่ถูกต้อง,none,none,none,none,none,4,none,a262.png,b262.png,c262.png,d262.png,none
+263,ภาพด้านหน้าที่กำหนดให้ยังขาดความสมบูรณ์ รูปใดเป็นภาพด้านหน้าที่ถูกต้อง,none,none,none,ไม่มีข้อใดถูกต้อง,none,2,q263.png,a263.png,b263.png,c263.png,none,none
+264,ภาพด้านหน้าที่กำหนดให้ยังขาดความสมบูรณ์ รูปใดเป็นภาพด้านหน้าที่ถูกต้อง,none,none,none,ไม่มีข้อใดถูกต้อง,none,2,q264.png,a264.png,b264.png,c264.png,none,none
+265,ภาพด้านหน้าที่กำหนดให้ยังขาดความสมบูรณ์ รูปใดเป็นภาพด้านหน้าที่ถูกต้อง,none,none,none,ข้อ 1 และ 2 ถูกต้อง,none,,q265.png,a265.png,b265.png,c265.png,none,none
+266,ภาพด้านบนที่กำหนดให้ยังขาดความสมบูรณ์ รูปใดเป็นภาพด้านบนที่ถูกต้อง,none,none,none,none,none,3,q266.png,a266.png,b266.png,c266.png,d266.png,none
+267,ภาพด้านบนที่กำหนดให้ยังขาดความสมบูรณ์ รูปใดเป็นภาพด้านบนที่ถูกต้อง,none,none,none,none,none,2,q267.png,a267.png,b267.png,c267.png,d267.png,none
+268,ภาพด้านบนที่กำหนดให้ยังขาดความสมบูรณ์ รูปใดเป็นภาพด้านบนที่ถูกต้อง,none,none,none,none,none,4,q268.png,a268.png,b268.png,c268.png,d268.png,none
+269,ภาพด้านข้างที่กำหนดให้ยังขาดความสมบูรณ์ รูปใดเป็นภาพด้านข้างที่ถูกต้อง,none,none,none,none,none,1,q269.png,a269.png,b269.png,c269.png,d269.png,none
+270,ภาพด้านข้างที่กำหนดให้ยังขาดความสมบูรณ์ รูปใดเป็นภาพด้านข้างที่ถูกต้อง,none,none,none,ไม่มีข้อใดถูกต้อง,none,4,q270.png,a270.png,b270.png,c270.png,none,none
+271,เพื่อให้ภาพ Orthographic ข้างล่างสมบูรณ์ ต้องเติมเส้นอีกกี่เส้น,0,2,4,6,none,3,q271.png,none,none,none,none,none
+272,เลือก Top View ให้เหมาะสมกับ Front View ที่กำหนดให้,none,none,none,none,none,1,q272.png,a272.png,b272.png,c272.png,d272.png,none
+273,เลือก Front View ให้เหมาะสมกับ Top View ที่ให้,none,none,none,none,none,3,q273.png,a273.png,b273.png,c273.png,d273.png,none
+274,จากภาพ Orthographic ที่กำหนดให้ จงเลือก Left Side View ที่เหมาะสม,none,none,none,none,none,1,q274.png,a274.png,b274.png,c274.png,d274.png,none
+275,เลือก Side View ของภาพ Orthographic ที่ให้,none,none,none,none,none,1,q275.png,a275.png,b275.png,c275.png,d275.png,none
+276,จากรูป Orthographic ของเส้นทางเดินท่อน้ำ จงหาความยาวรวมทั้งหมดของท่อ,200 m,230 m,260 m,280 m,none,3,q276.png,none,none,none,none,none
+277,จากรูป Orthographic ที่กำหนดให้ จงบอกชื่อมุมมอง (View) ให้ถูกต้อง,"View 1 = Front view, View 2 = Side view","View 1 = Front view, View 2 = Top view","View 1 = Top view, View 2 = Front view","View 1 = Side view, View 2 = Top view",none,3,q277.png,none,none,none,none,none
+278,เลือก Right-side View ของภาพ Orthographic ที่กำหนดให้,none,none,none,none,none,3,q278.png,a278.png,b278.png,c278.png,d278.png,none
+279,จากรูป Front View และ Side View ที่กำหนดให้ จงเลือก Top View ที่ถูกต้อง,none,none,none,none,none,3,q279.png,a279.png,b279.png,c279.png,d279.png,none
+280,เลือกภาพวาด Oblique ที่เหมาะสมที่สุด,none,none,none,none,none,4,none,a280.png,b280.png,c280.png,d280.png,none
+281,ข้อใดคือ front view ของรูป Isometric ที่ให้,none,none,none,none,none,4,q281.png,a281.png,b281.png,c281.png,d281.png,none
+282,ข้อใดคือ front view ของ top view ที่กำหนดให้,none,none,none,none,none,1,q282.png,a282.png,b282.png,c282.png,d282.png,none
+283,ข้อใดไม่สามารถเป็น right-side view ของภาพ Orthographic ที่ให้,none,none,none,none,none,2,q283.png,a283.png,b283.png,c283.png,d283.png,none
+284,ข้อใดคือมุมมองที่หายไป,none,none,none,none,none,4,q284.png,a284.png,b284.png,c284.png,d284.png,none
+285,จงเลือกภาพ orthographic ที่ถูกต้อง,none,none,none,none,none,3,none,a285.png,b285.png,c285.png,d285.png,none
+286,จากรูป orthographic หากมองจากทิศทางของ front view ข้อใดถูกต้อง,Surface K is in front of Surface M and Surface F is in front of Surface L,Surface N is above Surface P and Surface H is in front of Surface K,Surface P is above Surface R and Surface G is in front of Surface M,Surface D is in front of Surface E and Surface Q is above Surface P,none,3,q286.png,none,none,none,none,none
+287,รูปใดเป็น Sectional View ของรูป Top View ที่กำหนดให้,none,none,none,none,none,4,q287.png,a287.png,b287.png,c287.png,d287.png,none
+288,เลือกภาพวาด Isometric ของภาพ Orthographic ที่กำหนดให้,none,none,none,none,none,2,q288.png,a288.png,b288.png,c288.png,d288.png,none
+289,เลือกภาพ Isometric ที่มีที่ผิด,none,none,none,none,none,4,none,a289.png,b289.png,c289.png,d289.png,none
+290,"เรียงลำดับความสูงของผิว A, B, C, D จากต่ำสุดไปสูงสุด","A, C, B, D","D, A, B, C","C, D, A, B","D, B, A, C",none,4,q290.png,none,none,none,none,none
+291,ข้อใดคือภาพ orthographic ที่ถูกต้องในทุกมุมมอง,none,none,none,none,none,2,none,a291.png,b291.png,c291.png,d291.png,none
+292,ข้อใดคือ Top View ของภาพ 3 มิติที่ให้,none,none,none,none,none,1,q292.png,a292.png,b292.png,c292.png,d292.png,none
+293,จากรูป Orthographic ของเส้นทางเดินท่อน้ำ จงหาความยาวรวมทั้งหมดของท่อ,240,280,320,360,none,4,q293.png,none,none,none,none,none
+294,รูปใดเป็น Orthographic ของรูป Isometric ที่ให้,none,none,none,none,none,3,q294.png,a294.png,b294.png,c294.png,d294.png,none
+295,ข้อใดไม่สามารถเป็น side view ของภาพ front view ที่ให้,none,none,none,none,none,3,q295.png,a295.png,b295.png,c295.png,d295.png,none
+296,ข้อใดเป็นภาพฉาย orthographic ที่ถูกต้อง,none,none,none,none,none,3,none,a296.png,b296.png,c296.png,d296.png,none
+297,เลือกภาพ Isometric ของภาพ orthographic ที่ให้,none,none,none,none,none,1,q297.png,a297.png,b297.png,c297.png,d297.png,none
+298,เลือกภาพ Isometric ที่เขียนได้ถูกต้องที่สุด,none,none,none,none,none,1,none,a298.png,b298.png,c298.png,d298.png,none
+299,ข้อใดคือภาพฉาย orthographic ของภาพสามมิติที่ให้,none,none,none,none,none,2,q299.png,a299.png,b299.png,c299.png,d299.png,none
+300,ภาพ orthographic ข้างล่างเป็นของวัตถุใด,none,none,none,none,none,2,q300.png,a300.png,b300.png,c300.png,d300.png,none
+301,วัตถุในภาพ orthographic นี้ใส่กล่องขนาดใดได้พอดีที่สุด,160x160x120,110x150x160,130x110x155,105x155x150,none,4,q301.png,none,none,none,none,none
+302,ภาพ orthographic ที่ให้เป็นของวัตถุใด,none,none,none,none,none,4,q302.png,a302.png,b302.png,c302.png,d302.png,none
+303,ข้อใดคือ Top View ของภาพ Orthographic ที่ให้,none,none,none,none,none,2,q303.png,a303.png,b303.png,c303.png,d303.png,none
+304,ต้องแก้ไขภาพ Orthographic อย่างไรเพื่อให้ภาพสมบูรณ์,ไม่ต้องแก้ไข,เติมเส้นทึบหนึ่งเส้น,เติมเส้นประหนึ่งเส้น,เติมเส้นทึบและเส้นประอย่างละหนึ่งเส้น,none,4,q304.png,none,none,none,none,none
+305,ข้อใดเป็น side view ของภาพ front view ที่ให้,none,none,none,none,none,2,q305.png,a305.png,b305.png,c305.png,d305.png,none
+306,ข้างล่างเป็นภาพ Isometric และ Orthographic ของวัตถุเดียวกัน มุม ABC ใน Top view มีค่าเท่าใด,67.38 องศา,60 องศา,56.31องศา,30องศา,none,1,q306.png,none,none,none,none,none
+307,ข้อใดคือ front view ของรูป orthographic ที่ให้,none,none,none,none,none,3,q307.png,a307.png,b307.png,c307.png,d307.png,none
+308,วัตถุในภาพ orthographic สามารถประกอบกับวัตถุใดได้ พอดีที่สุด,none,none,none,none,none,2,q308.png,a308.png,b308.png,c308.png,d308.png,none
+309,รูปใดเป็น Orthographic ของรูป Isometric ที่ให้,none,none,none,none,none,4,q309.png,a309.png,b309.png,c309.png,d309.png,none
+310,ภาพ Orthographic ในข้อใดไม่ตรงกับภาพ Isometric,none,none,none,none,none,4,none,a310.png,b310.png,c310.png,d310.png,none
+311,ในภาพฉายตามแนวเส้นสายตาที่กำหนด มีเส้นประกี่เส้น,2,3,4,5,none,3,q311.png,none,none,none,none,none
+312,ข้อใดเป็นการวางตำแหน่งของวัตถุที่ให้ได้ถูกต้องตามหลักของภาพฉายแบบออร์โธกราฟฟิก,none,none,none,ถูกทุกข้อ,none,1,none,a312.png,b312.png,c312.png,none,none
+313,ภาพใดไม่ใช่ภาพในการเขียนรูป Drawing แบบ 3 View?,Front View,Right Side View,Top View,Contruction View,none,4,none,none,none,none,none,none
+314,ขนาดของวัตถุในมิติใดจะเห็นได้บนภาพด้านบน (Top View) และ ภาพด้านหน้า (Front View) ?,ความกว้าง,มุมเอียงใดๆ,ความสูง,ความลึก,none,1,none,none,none,none,none,none
+315,ขนาดของวัตถุในมิติใดจะเห็นได้บนภาพด้านข้าง (Side View) และ ภาพด้านหน้า (Front View) ?,ความกว้าง,ความสูง,ความลึก,ความยาว,none,2,none,none,none,none,none,none
+316,รูป Pictorial Drawing ในข้อใด สัมพันธ์กับรูป Orthographic Drawing ข้างล่างนี้,none,none,none,none,none,1,q316.png,a316.png,b316.png,c316.png,d316.png,none
+317,รูป Pictorial Drawing ในข้อใด สัมพันธ์กับรูป Orthographic Drawing ข้างล่างนี้,none,none,none,none,none,4,q317.png,a317.png,b317.png,c317.png,d317.png,none
+318,รูป Pictorial Drawing ในข้อใด สัมพันธ์กับรูป Orthographic Drawing ข้างล่างนี้,none,none,none,none,none,3,q318.png,a318.png,b318.png,c318.png,d318.png,none
+319,รูปเขียน Orthographic Drawing ข้างล่างนี้ สัมพันธ์กับรูป Pictorial Drawing ในข้อใด?,none,none,none,none,none,1,q319.png,a319.png,b319.png,c319.png,d319.png,none
+320,รูปเขียน Orthographic Drawing ข้างล่างนี้ สัมพันธ์กับรูป Pictorial Drawing ในข้อใด?,none,none,none,none,none,3,q320.png,a320.png,b320.png,c320.png,d320.png,none
+321,รูปเขียน Orthographic Drawing ข้างล่างนี้ สัมพันธ์กับรูป Pictorial Drawing ในข้อใด?,none,none,none,none,none,2,q321.png,a321.png,b321.png,c321.png,d321.png,none
+322,รูปเขียน Orthographic Drawing ข้างล่างนี้ สัมพันธ์กับรูป Pictorial Drawing ในข้อใด?,none,none,none,none,none,2,q322.png,a322.png,b322.png,c322.png,d322.png,none
+323,ชนิดของฉายภาพลักษณะใดไม่ถือว่าเป็นภาพ PICTORIAL,AXONOMETRIC PROJECTION,OBLIQUE PROJECT,MULTIVIEW PROJECTION,PERSPECTIVE PROJECT,ISOMATRIC PROJECTION,3,q323.png,a323.png,b323.png,c323.png,d323.png,none
+324,จากภาพฉาย Orthographics ที่กำหนดให้ ภาพ Isometric ในข้อใดถูกต้อง,none,none,none,none,ไม่มีข้อใดถูก,4,q324.png,a324.png,b324.png,c324.png,d324.png,none
+325,จากภาพฉาย Orthographics ที่กำหนดให้ภาพ Isometric ในข้อใดถูกต้อง,none,none,none,none,none,4,q325.png,a325.png,b325.png,c325.png,d325.png,none
+326,จากภาพฉาย Orthographics ที่กำหนดให้ภาพ Isometric ในข้อใดถูกต้อง,none,none,none,none,none,1,q326.png,a326.png,b326.png,c326.png,d326.png,none
+327,จากรูปที่กำหนดให้ ถ้าระยะ A มีความยาวเท่ากับ 4 และวงกลม C มีขนาดเส้นผ่านศูนย์กลางเท่ากับ 3 จงหาขนาดของรัศมี R,5.5,7,5,4.5,none,3,q327.png,none,none,none,none,none
+328,จากรูปที่กำหนดให้ ถ้าระยะ A มีความยาวเท่ากับ 5 และระยะ B มีความยาวเท่ากับ 4.5 วงกลม C มีขนาดเส้นผ่านศูนย์กลางเท่ากับ 2 จงหาขนาดเส้นผ่านศูนย์กลางของวงกลม D ,3,3.5,4,4.5,none,1,q328.png,none,none,none,none,none
+329,จากรูปที่กำหนดให้ ถ้าระยะ C มีความยาวเท่ากับ 4 และระยะ D มีความยาวเท่ากับ 2 และวงกลม B มีขนาดเส้นผ่านศูนย์กลางเท่ากับ 2 จงหาขนาดของเส้นผ่านศูนย์กลางของวงกลม A ,1,2,2.5,3,none,2,q329.png,none,none,none,none,none
+330,จากรูปที่กำหนดให้ ถ้าระยะรัศมี R เท่ากับ 5 และระยะ D ยาวเท่ากับ 2 และวงกลม B มีขนาดเส้นผ่านศูนย์กลางเป็น 2 เท่าของวงกลม A จงหาขนาดของรัศมีของวงกลม A,1.5,2,2.5,3,none,1,q330.png,none,none,none,none,none
+331,มุมมองภาพช่วย (Auxiliary view) จะใช้แสดงงานเขียนแบบในข้อใด,แสดงรูปร่างที่แท้จริงของงานเกลียว,แสดงภาพขยายของมุมชิ้นงาน,แสดงขนาดและรูปร่างที่แท้จริงของพื้นผิวเอียง,แสดงความขรุขระของพื้นผิวภาพช่วย,none,3,none,none,none,none,none,none
+332,ข้อใดเป็นความหมายที่ถูกต้องของ Isometric Circle,เป็นรูปวงรีที่ปรากฏเห็นเป็นวงกลมในภาพ Isometric Projection,เป็นรูปวงกลมบนระนาบ Isometric Plane ที่ปรากฏเห็นเป็นวงรีในภาพ Isometric Projection,เป็นรูปวงกลมที่ปรากฏเห็นเป็นขนาดจริงในภาพ Pictorial Drawing,เป็นรูปวงกลมที่ใช้ช่วยในการสร้างรูป Isometric Projection,none,2,none,none,none,none,none,none
+333,ข้อใดถูกต้องเกี่ยวกับขนาดของระนาบต่างๆ ของกล่องสี่เหลี่ยมจัตุรัสในรูป Isometric Projection,"ระนาบ “a” จะมีขนาดเล็กกว่าขนาดจริง และระนาบ “b”, “c”, และ “d” จะเป็นขนาดจริง","ระนาบ “a” จะมีขนาดใหญ่กว่าขนาดจริง และระนาบ “b”, “c”, และ “d” จะเป็นขนาดจริง","ระนาบ “a” จะมีขนาดจริง และระนาบ “b”, “c”, และ “d” จะเป็นขนาดเล็กกว่าขนาดจริง",ไม่สามารถบอกได้ว่าระนาบ “a” มีขนาดใหญ่กว่าขนาดจริง หรือเท่ากับขนาดจริง หรือเล็กกว่าขนาดจริง,none,3,q333.png,none,none,none,none,none
+334,ข้อใดถูกต้องเกี่ยวกับขนาดของระนาบต่างๆ ของกล่องสี่เหลี่ยมจัตุรัสในรูป Isometric Drawings,"ระนาบ “a” จะมีขนาดเล็กกว่าขนาดจริง และระนาบ “b”, “c”, และ “d” จะเป็นขนาดจริง","ระนาบ “a” จะมีขนาดใหญ่กว่าขนาดจริง และระนาบ “b”, “c”, และ “d” จะเป็นขนาดจริง","ระนาบ “a” จะมีขนาดจริง และระนาบ “b”, “c”, และ “d” จะเป็นขนาดเล็กกว่าขนาดจริง",ไม่สามารถบอกได้ว่าระนาบ “a” มีขนาดใหญ่กว่าขนาดจริง หรือเท่ากับขนาดจริง หรือเล็กกว่าขนาดจริง,none,2,q334.png,none,none,none,none,none
+335,การเขียนภาพแบบออบบลิก (Oblique drawing) ในข้อใดเรียกว่าภาพฉายแบบคาวาเลีย (Cavalier projection) ของกล่องสี่เหลี่ยมจัตตุรัส,none,none,none,none,none,3,q335.png,a335.png,b335.png,c335.png,d335.png,none
+336,none,75 องศา,60 องศา,45 องศา,45 องศา,none,2,q336.png,none,none,none,none,none
+337,ภาพเขียนแบบออบบริก (Oblique) มีกี่ชนิด?,5,2,3,4,none,2,none,none,none,none,none,none
+338,รูปเขียนออบบริก (Oblique Drawing) ใช้มุมเท่าใดในการเขียนรูป,50 องศา,60 องศา,75 องศา,90 องศา,none,3,none,none,none,none,none,none
+339,การเขียนความลึกของรูปออบบริก (Oblique) แบบ Cabinet จะมีความยาวเท่าใด,ครึ่งหนึ่งของความยาวจริง,1/4 ของความยาวจริง,เท่ากับความยาวจริง,3/4 ของความยาวจริง,none,1,none,none,none,none,none,none
+340,การเขียนความลึกของรูปออบบริก (Oblique) แบบ Cavalier จะมีความยาวเท่าใด,ครึ่งหนึ่งของความยาวจริง,1/4 ของความยาวจริง,เท่ากับความยาวจริง,3/4 ของความยาวจริง,none,3,none,none,none,none,none,none
+341,การเขียนความลึกของภาพไอโซเมทริกซ์ (Isometric) ใช้มุมเขียนเท่าไร,100 องศา,30 องศา,75 องศา,45 องศา,none,2,none,none,none,none,none,none
+342,ข้อใดคือวัตถุประสงค์หลักในการเขียนรูปไอโซเมทริกซ์ (Isometric),เพื่อแสดงวัตถุในมุมมอง 3 มิติ,เพื่อแสดงตำแหน่งของวัตถุ,เพื่อแสดงสีและสภาพผิวของวัตถุ,เพื่อแสดงการสร้างวัตถุ,none,1,none,none,none,none,none,none
+343,โดยทั่วไปแล้ว เราจะไม่เขียนเส้นใดบนรูปเขียนไอโซเมทริกซ์ (Isometric),เส้นเต็ม (Visible line),เส้นประ (Hidden line),เส้นบอกศูนย์กลางวงกลม (Center Line),เส้นร่าง (Contruction Line),none,2,none,none,none,none,none,none
+344,ข้อใดต่อไปนี้ไม่ถูกต้อง,แกนเอียงของภาพออบบลิก (Oblique) ทำมุม 45 กับแนวระดับ,ภาพออบบลิกทั่วไป(General oblique) ระยะตามแกนเอียงจะมีขนาดเป็น 1/2 หรือ 1 เท่าของความยาวจริง ทั้งนี้ขึ้นกับความเหมาะสม,มุมที่ปรากฏบนภาพไอโซเมตริกซ์ จะเป็นขนาดจริงเสมอ,ภาพวาดไอโซเมตริกซ์ เป็นภาพที่มีแกนอย่างน้อยสองแกนทำมุม 30 องศากับแนวระดับ,none,3,none,none,none,none,none,none
+345,ข้อใดต่อไปนี้เป็นข้อจำกัดความของการเขียนภาพสามมิติ,ใช้เป็นเครื่องมือในการสื่อสารความคิดกับผู้อื่นได้,สามารถแสดงรายละเอียดของภาพได้ครบถ้วน,สามารถเข้าใจได้โดยไม่ต้องเรียนรู้มาก่อน,ใช้ในขณะออกแบบได้สะดวก,none,2,none,none,none,none,none,none
+346,ภาพชนิดใดที่เสมือนภาพจริงที่มนุษย์มองเห็นมากที่สุด,Perspective,Oblique,Trimetric,ถูกทุกข้อ,none,1,none,none,none,none,none,none
+347,ข้อใดถูกต้องที่สุดเรื่องรัศมีความโค้งของส่วนโค้งในภาพ Isometric เมื่อเทียบกับรัศมีความโค้งจริง,มีค่าเท่าเดิม,มีค่ามากกว่าเดิม,มีค่าน้อยกว่าเดิม,มีค่าไม่คงที่,none,4,none,none,none,none,none,none
+348,ข้อใดกล่าวไม่ถูกต้องในการเขียนภาพ Pictorial,ต้องเขียนเส้นประหรือเส้นที่ถูกบังด้วยเสมอ เพื่อความชัดเจนของภาพ,ไม่นิยมเขียนเส้นประหรือเส้นที่ถูกบังลงในภาพ,เป็นรูปที่แสดงภาพได้ทั้ง 3 มุมมองหลักไว้ในภาพเดียว,ใช้เขียนประกอบกับภาพฉายตั้งฉากเพื่อช่วยให้เข้าใจได้ง่ายยิ่งขึ้น,none,1,none,none,none,none,none,none
+349,ภาพฉายออบบริก (Oblique Projection) จะมีมุมมองด้านใดเป็นขนาดจริง,ด้านหน้า,ด้านบน,ด้านข้างขวา,ด้านบนและด้านหน้า,none,1,none,none,none,none,none,none
+350,เหตุใดในทางวิศวกรรม จึงนิยมใช้การฉายภาพแบบ Isometric Projection มากกว่า Perspective Projection,การเขียนแบบภาพฉาย Isometric มีความสมจริงมากกว่า,การเขียนแบบภาพฉาย Isometric มีความสวยงามมากกว่า,การเขียนแบบภาพฉาย Isometric มีความถูกต้องของสัดส่วนและขนาดมากกว่า,การเขียนแบบภาพฉาย Isometric สามารถทำได้ง่ายและสะดวกรวดเร็วกว่า,การเขียนแบบภาพฉาย Isometric สามารถใช้โปรแกรมคอมพิวเตอร์ช่วยในการสร้างภาพได้,3,none,none,none,none,none,none
+351,ข้อใดกล่าวถึงภาพฉาย 3 มิติ แบบ Clinographic Projection ได้ถูกต้อง,จะแสดงมิติทางความลึกอยู่ระหว่างครึ่งหนึ่งของขนาดจริงถึงขนาดเท่ากับขนาดจริง ของขนาดชิ้นงาน,จะแสดงมิติทางความลึกเท่ากับครึ่งหนึ่งของขนาดจริงวัตถุ,จะแสดงมิติทางความลึกเท่ากับขนาดจริงของวัตถุ,จะแสดงมิติทางความกว้างอยู่ระหว่างครึ่งหนึ่งของขนาดจริงถึงขนาดเท่ากับขนาดจริง ของขนาดวัตถุ,none,1,none,none,none,none,none,none
+352,การเขียนภาพแบบ ออบบริก(Oblique) ข้อใดมีความเหมาะสมใน,none,none,none,none,ข้อที่ 1. และ ข้อที่ 3. เหมาะสม,1,none,a352.png,b352.png,c352.png,d352.png,none
+353,จงเลือกภาพไอโซเมตริก ให้ตรงกับภาพฉายด้านหน้า และภาพฉายด้านข้างที่กำหนดให้ ,none,none,none,none,none,3,q353.png,a353.png,b353.png,c353.png,d353.png,none
+354,จงเลือกภาพไอโซเมตริก ให้ตรงกับภาพฉายด้านหน้า และภาพฉายด้านบนที่กำหนดให้ ,none,none,none,none,none,2,q354.png,a354.png,b354.png,c354.png,d354.png,none
+355,จงเลือกภาพไอโซเมตริก ให้ตรงกับภาพฉายที่กำหนดให้,none,none,none,none,none,3,q355.png,a355.png,b355.png,c355.png,d355.png,none
+356,จงเลือกภาพไอโซเมตริก ให้ตรงกับภาพฉายที่หนดให้ ,none,none,none,none,none,3,q356.png,a356.png,b356.png,c356.png,d356.png,none
+357,จงเลือกภาพไอโซเมตริก ให้ตรงกับภาพฉายที่หนดให้ ,none,none,none,none,none,4,q357.png,a357.png,b357.png,c357.png,d357.png,none
+358,จงเลือกภาพไอโซเมตริก ให้ตรงกับภาพฉายที่หนดให้,none,none,none,none,none,1,q358.png,a358.png,b358.png,c358.png,d358.png,none
+359,จงเลือกภาพไอโซเมตริก ให้ตรงกับภาพฉายที่หนดให้ ,none,none,none,none,none,2,q359.png,a359.png,b359.png,c359.png,d359.png,none
+360,จงเลือกภาพไอโซเมตริก ให้ตรงกับภาพฉายที่หนดให้ ,none,none,none,none,none,4,q360.png,a360.png,b360.png,c360.png,d360.png,none
+361,จงเลือกภาพไอโซเมตริก ให้ตรงกับภาพฉายที่หนดให้ ,none,none,none,none,none,2,q361.png,a361.png,b361.png,c361.png,d361.png,none
+362,จงเลือกภาพไอโซเมตริก ให้ตรงกับภาพฉายที่หนดให้ ,none,none,none,none,none,3,q362.png,a362.png,b362.png,c362.png,d362.png,none
+363,การเขียนภาพไอโซเมตริก (Isometric drawings) เป็นการเขียนแบบในหมวดหมู่ใด,การเขียนแบบออบลิค (Oblique drawings),การเขียนแบบพิคโทเรียล (Pictorial drawings),การเขียนแบบไดเมตริค (Dimetric drawings),การเขียนแบบเพอสเปคทีฟ (Perspective drawings),none,2,none,none,none,none,none,none
+364,รูปแบบของการเขียนแบบสามมิติที่มีมุมมองใกล้เคียงกับการมองด้วยสายตาของคนเรามากที่สุดคือข้อใด,เพอสเปคทีฟ (Perspective),ออบบลิก (Oblique),ไตรเมตริก (Trimetric),ไอโซเมตริก (Isometric),none,1,none,none,none,none,none,none
+365,ถ้าต้องการสร้างรูปสามมิติของกล่องสี่เหลี่ยมในมุมมองของภาพไอโซเมตริก จะต้องใช้เส้นตรงจำนวนกี่เส้น,8 เส้น,9 เส้น,10 เส้น,12 เส้น,none,2,none,none,none,none,none,none
+366,จากรูปที่กำหนดให้ เป็นงานเขียนแบบชนิดใด,1-point perspective,2-point perspective,Isometric,Dimetric,none,1,q366.png,none,none,none,none,none
+367,แบบใดแสดงการกำหนดขนาดส่วนโค้งถูกต้อง,none,none,none,none,none,1,none,a367.png,b367.png,c367.png,d367.png,none
+368,การแสดงค่าแบบงานสวมที่ถูกเป็นแบบใด,none,none,none,none,none,1,none,a368.png,b368.png,c368.png,d368.png,none
+369,ภาพบอกขนาดมิติข้อใดไม่เหมาะสม,none,none,none,none,none,1,none,a369.png,b369.png,c369.png,d369.png,none
+370,บริเวณ(แรเงา)ใดควรงดเว้นการบอกขนาด,none,none,none,none,none,2,none,a370.png,b370.png,c370.png,d370.png,none
+371,การบอกขนาดในภาพใดก่อให้เกิดความคลาดเคลื่อนน้อยที่สุด,none,none,none,none,none,2,none,a371.png,b371.png,c371.png,d371.png,none
+372,เมื่อให้พื้นที่แรเงาสีดำเป็นบริเวณที่ควรหลีกเลี่ยง การกำหนดขนาดแบบเส้นตรงควรหลีกเลี่ยงบริเวณใด,none,none,none,none,none,1,none,a372.png,b372.png,c372.png,d372.png,none
+373,เมื่อให้พื้นที่แรเงาสีดำเป็นบริเวณที่ควรหลีกเลี่ยง การกำหนดขนาดมุมควรหลีกเลี่ยงบริเวณใด,none,none,none,none,none,3,none,a373.png,b373.png,c373.png,d373.png,none
+374,การกำหนดขนาดงานสวมข้อใด ที่กำหนดขนาดไว้ถูกต้อง,none,none,none,none,none,4,none,a374.png,b374.png,c374.png,d374.png,none
+375,none,รูคว้านคงที่,เพลาคงที่,รูคว้านและเพลาคงที่,ขนาดกำหนดคงที่,none,1,q375.png,none,none,none,none,none
+376,none,งานสวมอิสระ,งานสวมพอดี,งานสวมคลอน,งานสวมอัด,none,4,q376.png,none,none,none,none,none
+377,เส้นกำหนดขนาดควรห่างจากขอบชิ้นงานอย่างน้อยเท่าใด,8 มม.,10 มม.,12 มม.,14 มม.,none,1,none,none,none,none,none,none
+378,เงื่อนไขขนาดใดที่ใส่ผิด,8,15,16,30,none,3,q378.png,none,none,none,none,none
+379,แบบใดถูกต้องตามเงื่อนไข,none,none,none,none,none,1,none,a379.png,b379.png,c379.png,d379.png,none
+380,ขนาด 30 ในการบอกขนาดต่อไปนี้หมายถึงอะไร,ขนาดกำหนดให้,ขนาดโตสุด,ขนาดเล็กสุด,ขนาดที่วัดได้,none,1,q380.png,none,none,none,none,none
+381,งานกลึงชิ้นใด แสดงสัญลักษณ์ได้ถูกต้อง,none,none,none,none,none,1,none,a381.png,b381.png,c381.png,d381.png,none
+382,สัญลักษณ์คุณภาพผิวงานอันใดถูก,none,none,none,none,none,1,none,a382.png,b382.png,c382.png,d382.png,none
+383,"ถ้าตัวอักษรงานเขียนแบบสูง ""h"" ขนาดเส้นที่ใช้เขียนตัวอักษรมีขนาดเท่าใด",1/10h,2/10h,7/10h,10/10h,none,1,none,none,none,none,none,none
+384,ข้อกำหนดในการกำหนดขนาด ข้อใดกล่าวไม่ถูกต้อง,ควรหลีกเลี่ยงการกำหนดขนาดระหว่างเส้นประ กับเส้นประ,ถ้ามีเส้นบอกขนาดที่ยาวไม่เท่ากันซ้อนกันหลายเส้นบนด้านเดียวกันของชิ้นงาน เส้นบอกขนาดที่ยาวที่สุดควรวางไว้ใกล้ผิววัตถุมากที่สุด,ถ้างานเขียนแบบไม่ได้เขียนตามมาตราส่วนที่แน่นอน จะต้องเขียน “NOT TO SCALE” ลงในแบบ,โดยทั่วไป การกำหนดขนาดของเส้นผ่านศูนย์กลางจะใช้กับวงกลม ส่วนการกำหนดขนาดของค่ารัศมีจะใช้กับส่วนโค้ง,none,2,none,none,none,none,none,none
+385,จากรูปที่กำหนดให้ ถ้าระยะ C ยาวเท่ากับ 1.00 ระยะ F จะมีความยาวเท่าใด,0.135,0.197,0.26,0.323,none,4,q385.png,none,none,none,none,none
+386,จากรูปที่กำหนดให้ ถ้าระยะ A ยาวเท่ากับ 1.25 ระยะ E จะมีความยาวเท่าใด,0.25,0.38,0.5,0.62,none,3,q386.png,none,none,none,none,none
+387,จากรูปที่กำหนดให้ ระยะ A มีค่าเท่าใด,9,10,15,17,none,2,q387.png,none,none,none,none,none
+388,จากรูปที่กำหนดให้ ค่ารัศมี R มีค่าเป็นเท่าใด,1.8,0.9,0.75,0.375,none,2,q388.png,none,none,none,none,none
+389,ข้อใดไม่เหมาะสมสำหรับการให้ขนาด,หลีกเลี่ยงการตัดกันของเส้นบอกขนาด(Dimension lone),ใช้เส้นรอบรูปเป็นเส้นช่วยให้ขนาด(Extension line),กำหนดขนาดลงภายในภาพตัด(Section view),ลากเส้นช่วยให้ขนาดตัดกับเส้นรอบรูป,none,2,none,none,none,none,none,none
+390,ข้อใดผิดหลักการบอกขนาด,none,none,none,none,none,3,none,a390.png,b390.png,c390.png,d390.png,none
+391,จากรูปข้อใดบอกขนาดได้ถูกต้องที่สุด,none,none,none,none,none,1,none,a391.png,b391.png,c391.png,d391.png,none
+392,จากรูปที่กำหนดให้ รูเจาะถูกสวมอยู่กับหมุด จงหาระยะจากขอบ A ถึงขอบ B ที่มากที่สุด ,82.2,82.3,82.4,82.5,none,3,q392.png,none,none,none,none,none
+393,การกำหนดขนาดในข้อใดถูกต้องที่สุด,none,none,none,none,none,1,none,a393.png,b393.png,c393.png,d393.png,none
+394,การกำหนดระยะเผื่อข้อใดต่อไปนี้เขียนไม่ถูกต้อง,none,none,none,none,ผิดมากกว่า 1 ข้อ,4,none,a394.png,b394.png,c394.png,d394.png,none
+395,จงหาขนาด X ที่น้อยและมากที่สุด ตามลำดับ,1.85 และ 1.95,2.03 และ 2.13,1.85 และ 2.13,1.95 และ 2.03,ไม่มีข้อใดถูก,3,q395.png,none,none,none,none,none
+396,จากรูป ORTHOGRAPHICS ที่กำหนดให้เพื่อกำหนดขนาดของรูปจะต้องมีการให้ขนาดทั้งหมด จำนวนกี่จุดจึ่งเหมาะสมและสมบูรณ์,4,5,6,7,8,2,q396.png,none,none,none,none,none
+397,จากรูปข้อใดอธิบายลักษณะรูเจาะ ได้ถูกต้อง,เส้นผ่านศูนย์กลางใน 0.50 เจาะทะลุตลอด เส้นผ่านศูนย์กลางนอก ขนาด 0.75 เจาะแบบ Counter bore ลึก 0.25,เส้นผ่านศูนย์กลางใน 0.50 เจาะทะลุตลอด เส้นผ่านศูนย์กลางนอก ขนาด 0.75 เจาะแบบ Countersink ลึก 0.25,เส้นผ่านศูนย์กลางใน 0.75 เจาะทะลุตลอด เส้นผ่านศูนย์กลางนอก ขนาด 0.50 เจาะแบบ Counter bore ลึก 0.25,เส้นผ่านศูนย์กลางใน 0.75เจาะทะลุตลอด เส้นผ่านศูนย์กลางนอก ขนาด 0.50เจาะแบบ Countersink ลึก 0.25,ผิดทุกข้อ,1,q397.png,none,none,none,none,none
+398,ข้อใดกล่าวได้ถูกต้องที่สุด,"A เรียกว่า เส้นบอกขนาด , C เรียกว่า เส้นช่วยบอกขนาด","A เรียกว่า เส้นช่วยบอกขนาด, C เรียกว่า เส้นบอกขนาด","A เรียกว่า เลขบอกขนาด , C เรียกว่า เส้นบอกขนาด","A เรียกว่า เส้นช่วยบอกขนาด , C เรียกว่า เส้นช่วยบอกขนาด",none,1,q398.png,none,none,none,none,none
+399,การกำหนดขนาดข้อใดถูกต้องที่สุด,none,none,none,none,none,1,none,a399.png,b399.png,c399.png,d399.png,none
+400,การกำหนดขนาดดังรูปมีที่ผิดกี่ที่,3 ที่,4 ที่,5 ที่,ไม่ผิดเลย,none,2,q400.png,none,none,none,none,none
+401,เลข 8 ของรหัสสกรู M8 x 30 DIN 931-5.6 หมายถึงอะไร,ระยะพิตเกลียว,ขนาดเส้นผ่าศูนย์กลางโคนเกลียว,ขนาดเส้นผ่าศูนย์กลางศูนย์เกลียว,ขนาดเส้นผ่าศูนย์กลางกำหนด,none,4,none,none,none,none,none,none
+402,ขนาดเส้นผ่าศูนย์กลางเกลียวกำหนดไว้อย่างไร,none,none,none,none,none,1,none,a402.png,b402.png,c402.png,d402.png,none
+403,รหัสใดแสดงรหัสเกลียวมาตรฐาน,10 M,18 M x 1.5,20 x 40 Tr,S 12 x 2,none,4,none,none,none,none,none,none
+404,ขนาดเกลียวมาตรฐานไม่ได้กำหนดที่ใด,เส้นผ่าศูนย์กลางยอดเกลียว,ความยาวเกลียวใช้งานได้,ตัวสกรูรวมปลายสกรู,เกลียวในลึกรวมรูเรียว,none,4,none,none,none,none,none,none
+405,แบบใดให้ขนาดถูกตามเงื่อนไข,none,none,none,none,none,2,none,a405.png,b405.png,c405.png,d405.png,none
+406,รัศมีใดไม่ถูกตามมาตรฐาน,12,70,3,4,none,4,q406.png,none,none,none,none,none
+407,เขียนแบบใดจึงถูกตามเงื่อนไข,none,R 30,R=30,30 R,none,2,none,a407.png,none,none,none,none
+408,เขียนแบบใดจึงถูกตามเงื่อนไข,none,none,none,none,none,1,none,a408.png,b408.png,c408.png,d408.png,none
+409,การกำหนดขนาดข้อใดผิด,22,R10,11,R12,none,3,q409.png,none,none,none,none,none
+410,แบบใดถูกต้องตามเงื่อนไข,none,none,none,none,none,4,none,a410.png,b410.png,c410.png,d410.png,none
+411,แบบใดถูกต้องตามเงื่อนไข,none,none,none,none,none,4,none,a411.png,b411.png,c411.png,d411.png,none
+412,แบบใดถูกต้องตามเงื่อนไข,none,none,none,none,none,2,none,a412.png,b412.png,c412.png,d412.png,none
+413,ข้อความใดถูกต้องตามเงื่อนไข,กำหนดระยะรูด้วย เส้นศูนย์กลางเสมอ,กำหนดระยะรูด้วย เส้นรอบวงเสมอ,ชิ้นงานมีรูหลายรูเท่ากัน ให้กำหนดขนาดทุกรู,อย่าใช้เส้นศูนย์กลางรูแทนเส้นช่วยกำหนดขนาด,none,1,none,none,none,none,none,none
+414,กำหนดขนาดวิธีใดที่เข้ามาตรฐานเขียนแบบ,none,none,none,none,none,1,none,a414.png,b414.png,c414.png,d414.png,none
+415,กำหนดขนาดวิธีใดที่เข้ามาตรฐานเขียนแบบ,none,none,none,none,none,4,none,a415.png,b415.png,c415.png,d415.png,none
+416,ข้อความที่ถูกที่สุดคือข้อความใด,ลูกศรให้เขียนด้วยดินสอเท่านั้น,ลูกศรมีมุมปลายแหลม 25 องศา,ลูกศรแสดงปลายเส้นกำหนดขนาด,ลูกศรเลือกเขียนได้หลายขนาด,none,3,none,none,none,none,none,none
+417,เส้นกำหนดขนาดควรห่างจากขอบชิ้นงานอย่างน้อยเท่าใด,8 มม.,10 มม.,12 มม.,14 มม.,none,1,none,none,none,none,none,none
+418,เส้นกำหนดขนาดควรห่างกันอย่างน้อยเท่าใด,10 มม.,9 มม.,8 มม.,7 มม.,none,4,none,none,none,none,none,none
+419,เงื่อนไขใดที่กำหนดขนาดได้ตามมาตรฐาน,none,none,none,none,none,2,none,a419.png,b419.png,c419.png,d419.png,none
+420,เงื่อนไขใดกำหนดขนาดได้มาตรฐาน,none,none,none,none,none,1,none,a420.png,b420.png,c420.png,d420.png,none
+421,เงื่อนไขขนาดใดที่ไม่เกี่ยวข้องกับขอบ (B),5,6,10,25,none,2,q421.png,none,none,none,none,none
+422,เงื่อนไขขนาดใดที่ใส่ผิด,8,15,16,30,none,3,q422.png,none,none,none,none,none
+423,กฎการเขียนเส้นกำหนดขนาดข้อใดถูกต้อง,เส้นกำหนดขนาดต้องไม่ทับกัน,ให้เว้นจุดที่เส้นกำหนดขนาดทับกัน,เส้นกำหนดขนาดใช้กับเส้นช่วยกำหนดขนาด เท่านั้น,เส้นกำหนดขนาดต้องไม่อยู่กลางขอบงาน,none,1,q423.png,none,none,none,none,none
+424,กำหนดขนาดใดตรงมาตรฐาน,ขนาด 5 ตรงมาตรฐาน,ขนาด 16 ตรงมาตรฐาน,ทั้ง 5 และ 16 ไม่ตรงมาตรฐาน,ทั้ง 5 และ 16 ตรงมาตรฐาน,none,3,q424.png,none,none,none,none,none
+425,กำหนดขนาดชิ้นงานสมมาตรอย่างไร,สมมาตรกับเส้นศูนย์กลาง,ทำมุมกับเส้นศูนย์กลาง,ไม่เกี่ยวกัน,จากขอบบนเสมอ,none,1,none,none,none,none,none,none
+426,การกำหนดขนาดอ้างอิงในวงเล็บ (45) หมายถึง อะไร,สำหรับงานผลิตไม่จำเป็นต้องใช้,สำหรับงานผลิตไม่จำเป็นต้องใช้,ขนาดจำเป็นต้องแน่นอนมาก,สำหรับงานประกอบให้ตรวจสอบอีกครั้ง,none,3,none,none,none,none,none,none
+427,จากภาพสองมุมมองที่กำหนดให้ ถ้าให้ทำการบอกขนาด จะต้องบอกขนาดด้วยเส้นบอกขนาดกี่เส้น จึงถือว่ามีการบอกขนาดที่สมบูรณ์ ,6 เส้น,7 เส้น,8 เส้น,9 เส้น,none,2,q427.png,none,none,none,none,none
+428,ข้อใดให้ขนาด (Dimensioning) ได้ถูกต้องที่สุด,none,none,none,none,none,4,none,a428.png,b428.png,c428.png,d428.png,none
+429,จุดศูนย์กลาง A และจุดศูนย์กลาง B ห่างกันเท่าใด,70,72,75,80,none,3,q429.png,none,none,none,none,none
+430,ข้อใดให้ขนาด ได้เหมาะสมที่สุด,none,none,none,none,none,3,none,a430.png,b430.png,c430.png,d430.png,none
+431,ข้อใดเขียน center line ได้ถูกต้องที่สุด,none,none,none,none,none,1,none,a431.png,b431.png,c431.png,d431.png,none
+432,ภาพตัด (Section) ต่อไปนี้ เป็นภาพตัดแบบใด,Full Section,Half Section,Broken-out Section,Rotated Section,none,1,q432.png,none,none,none,none,none
+433,ภาพตัด (Section) ต่อไปนี้ เป็นภาพตัดแบบใด,Full Section,Half Section,Broken-out Section,Rotated Section ,none,2,q433.png,none,none,none,none,none
+434,การเขียนเส้นลายตัดของภาพตัด จะต้องเอียงทำมุมกับแนววางของชิ้นงานเป็นมุมเท่าใด,90 องศา,60 องศา,45 องศา,30 องศา,none,3,none,none,none,none,none,none
+435,ข้อใดเป็นสัญลักษณ์มาตรฐานที่แสดงเส้นลายตัดของทองเหลือง,none,none,none,none,none,3,none,a435.png,b435.png,c435.png,d435.png,none
+436,ภาพนี้เป็นภาพตัดประเภทใด,ตัดเต็ม,ตัดมาตรฐาน,ตัดธรรมดา,ตัดออก,none,1,q436.png,none,none,none,none,none
+437,ในภาพตัดยอมให้แสดงขอบที่มองไม่เห็นเมื่อไร,ต้องการตบแต่งให้สวยงามขึ้น,จำเป็นต้องแสดงแบบให้ชัดเจนขึ้น,ผู้ผลิตต้องการให้เขียนไว้,เมื่อเส้นไม่ตัดเส้นลายตัด,none,1,none,none,none,none,none,none
+438,เมื่อไรใช้ภาพตัดประเภทนี้,เฉพาะเหล็กโครงสร้าง,เฉพาะงานเครื่องประดับ,ชิ้นงานประกอบกันไม่น้อยกว่า 3 ชิ้น,ภาพตัดชิ้นงานแคบมาก,none,4,q438.png,none,none,none,none,none
+439,ภาพตัดภาพใดถูกต้อง,none,none,none,none,none,2,q439.png,a439.png,b439.png,c439.png,d439.png,none
+440,จากรูปเป็นภาพตัดประเภทใด,Full Section,Offset Section,Broken-out Section,Half Section,none,2,q440.png,none,none,none,none,none
+441,ข้อใดกล่าวไม่ถูกต้อง,"การลากเส้นตัด (Section Line) โดยปกติให้เอียงทำมุมประมาณ 30 องศา, 45 องศา หรือ 60 องศา",น้ำหนักของเส้น Section Line เท่ากับ Center Line,น้ำหนักของเส้น Cutting Plane Line เท่ากับ Visible Line,ในการเขียนภาพตัดจะไม่ปรากฏ Hidden Line เสมอ,none,4,none,none,none,none,none,none
+442,การตัดแบบใดถือได้ว่าเป็นการตัดแบบ Full section แบบหนึ่ง,Partial section,Offset section,Broken-out section ,Half section,none,2,none,none,none,none,none,none
+443,จากภาพไอโซเมตริก ที่กำหนดให้ควรเขียนภาพตัดแบบใด จึงมีความเหมาะสมที่สุด ,Full section,Half section,Offset section,Aligned section,none,3,q443.png,none,none,none,none,none
+444,ข้อใดถูกต้องที่สุดในการเขียนภาพ sectional view,ภาพตัดครึ่ง(half section)เป็นการเขียนแบบตัดออก 1/2 ส่วน โดยตัดแยกตามเส้นศูนย์กลาง,น้ำหนักของแสดงแนวการตัด(cutting plane line)เท่ากับน้ำหนักของเส้นศูนย์กลาง(center line),ในการเขียนภาพ sectional view ขอบงานที่มองไม่เห็น(ปกติแสดงด้วยเส้นประ)จะเขียนแสดงด้วยเส้นเต็มหนา,ในการเขียนภาพ sectional view จะแสดงภาพฉายอย่างน้อยสองด้านเสมอ,none,4,none,none,none,none,none,none
+445,การเขียนเส้นรอยตัดใดถูก,none,none,none,ข้อ 1. และ ข้อ 2. ถูก,none,4,none,a445.png,b445.png,c445.png,none,none
+446,ภาพตัดใด สอดคล้องกับรูปที่กำหนดให้ สำหรับแนวตัด A-A,none,none,none,none,none,2,q446.png,a446.png,b446.png,c446.png,d446.png,none
+447,จากรูปที่กำหนดให้ ข้อใดคือภาพตัดตามแนวตัด C-C ,none,none,none,none,none,2,q447.png,a447.png,b447.png,c447.png,d447.png,none
+448,จากรูปที่กำหนดให้ ข้อใดคือภาพตัดตามแนวตัด A-A,none,none,none,none,none,1,q448.png,a448.png,b448.png,c448.png,d448.png,none
+449,จากรูปที่กำหนดให้ ข้อใดคือภาพตัดตามแนวตัด B-B,none,none,none,none,none,3,q449.png,a449.png,b449.png,c449.png,d449.png,none
+450,จากรูปที่กำหนดให้ แสดงวิธีการตัดภาพแบบใด,Offset Section,Full Section,Half Section,Broken out Section,none,3,q450.png,none,none,none,none,none
+451,จากรูปที่กำหนดให้ แสดงวิธีการตัดภาพแบบใด,Full Section,Broken out Section,Offset Section,Removed Section,none,2,q451.png,none,none,none,none,none
+452,จากรูปที่กำหนดให้ แสดงวิธีการตัดภาพแบบใด ,Offset Section,Full Section,Half Section,Revolved Section,none,1,q452.png,none,none,none,none,none
+453,การตัดภาพแบบ Half Section เหมาะสำหรับชิ้นส่วนประเภทใด,ชิ้นส่วนที่ไม่มีรายละเอียดภายในมากนัก,ชิ้นส่วนที่มีรายละเอียดภายในมาก,ชิ้นส่วนที่มีลักษณะของรูปทรงสมมาตร,ชิ้นส่วนที่ต้องการแสดงรายละเอียดเฉพาะจุด,none,3,none,none,none,none,none,none
+454,การตัดภาพแบบ Broken Out Section เหมาะสำหรับชิ้นส่วนประเภทใด,ชิ้นส่วนที่ต้องการแสดงรายละเอียดเฉพาะส่วน,ชิ้นส่วนที่มีรูปทรงสมมาตร,ชิ้นส่วนที่มีรายละเอียดภายในซับซ้อน,ชิ้นส่วนที่มีรายละเอียดภายในไม่ซับซ้อนมากนัก,none,1,none,none,none,none,none,none
+455,ข้อใดแสดงการลงลายตัดที่ถูกต้อง,none,none,none,none,none,4,none,a455.png,b455.png,c455.png,d455.png,none
+456,จากภาพตัดที่กำหนดให้ แสดงการตัดภาพของวัสดุชนิดใด,ทองแดง,เหล็กเหนียว,เหล็กหล่อ,ไทเทเนียม,none,3,q456.png,none,none,none,none,none
+457,จากภาพตัดที่กำหนดให้ แสดงการตัดภาพของวัสดุชนิดใด ,เหล็กเหนียว,เหล็กหล่อ,ฉนวนกันความร้อน,ทองเหลือง,none,1,q457.png,none,none,none,none,none
+458,จากภาพตัดที่กำหนดให้ แสดงการตัดภาพของวัสดุชนิดใด ,เหล็กเหนียว,เหล็กหล่อ,ฉนวนกันความร้อน,ทองเหลือง,none,4,q458.png,none,none,none,none,none
+459,จากภาพตัดที่กำหนดให้ แสดงการตัดภาพของวัสดุชนิดใด ,เหล็กเหนียว,ยาง,คอนกรีต,ฉนวนกันความร้อน,none,3,q459.png,none,none,none,none,none
+460,ข้อใดแสดงภาพตัดที่ถูกต้อง,none,none,none,none,none,1,none,a460.png,b460.png,c460.png,d460.png,none
+461,การแสดงเส้นลวดลายภาพตัด(Section Line) ของภาพ Isometric จะต้องเขียนเส้นทำมุมกับแนวระดับเท่าใด,30 องศา,45 องศา,60 องศา,90 องศา,none,3,none,none,none,none,none,none
+462,ภาพใดเป็นการแสดงภาพตัดที่ถูกต้อง,none,none,none,none,none,3,none,a462.png,b462.png,c462.png,d462.png,none
+463,จากภาพฉายในระบบมุมที่ 3 ที่กำหนดให้ ภาพใดแสดงการตัดภาพที่ถูกต้อง,none,none,none,none,none,3,q463.png,a463.png,b463.png,c463.png,d463.png,none
+464,ถ้าวัตถุมีลักษณะรูปทรงที่สมมาตร ควรใช้การตัดภาพด้วยวิธีใดจึงจะเหมาะสมที่สุด,Broken-Out Section,Half Section,Offset Section,Revolved Section,none,2,none,none,none,none,none,none
+465,ภาพนี้เป็นภาพตัดประเภทใด,ตัดเต็ม,ตัดมาตรฐาน,ตัดธรรมดา,ตัดออก,none,1,q465.png,none,none,none,none,none
+466,การตัดเต็ม ให้ตัดตามแนวใด,เส้นศูนย์กลางแนวนอน,เส้นศูนย์กลางแนวดิ่ง,เส้นศูนย์กลางแนวใดก็ได้,เส้นใดก็ได้ตามความเหมะสม,none,3,none,none,none,none,none,none
+467,ในภาพตัดยอมให้แสดงขอบที่มองไม่เห็นเมื่อไร,ต้องการตบแต่งให้สวยงามขึ้น,จำเป็นต้องแสดงแบบให้ชัดเจนขึ้น,ผู้ผลิตต้องการให้เขียนไว้,เมื่อเส้นไม่ตัดเส้นลายตัด,none,2,none,none,none,none,none,none
+468,เส้นลายตัด เขียนด้วยเส้นอะไร,เส้นลูกโซ่บาง,เส้นประบาง,เส้นมือเปล่าบาง,เส้นเต็มบาง,none,4,none,none,none,none,none,none
+469,เส้นลายตัดเอียงเท่าใด,15 degree,30 degree,45 degree,60 degree,none,3,none,none,none,none,none,none
+470,พื้นที่ภาคตัดยิ่งแคบ ยิ่งต้องเป็นอย่างไร,ระยะห่าง เส้นลายตัดยิ่งต้องลดลง,ระยะห่าง เส้นลายตัดยิ่งต้องกว้างขึ้น,เส้นลายตัดต้องเอียงมากขึ้น,เส้นลายตัดต้องเอียงน้อยลง,none,1,none,none,none,none,none,none
+471,ภาพตัดใดเขียนได้ถูกต้อง,none,none,none,none,none,2,none,a471.png,b471.png,c471.png,d471.png,none
+472,ภาพตัดใด ตัดไม่ถูกตามมาตรฐาน,none,none,none,none,none,4,none,a472.png,b472.png,c472.png,d472.png,none
+473,ภาพด้านบนภาพใดที่ตัดถูกต้อง,none,none,none,none,none,1,q473.png,a473.png,b473.png,c473.png,d473.png,none
+474,มุมมอง (views) ในข้อใดที่ใช้แสดงรายละเอียดที่มีอยู่ภายในเนื้อชิ้นงาน,มุมมองปกติ (Regular views),มุมมองภาพตัด (Section views),มุมมองภาพออบลิค (Oblique views),มุมมองภาพช่วย (Auxiliary views),none,2,none,none,none,none,none,none
+475,เส้นที่ใช้ลากผ่านชิ้นงานโดยมีตัวอักษรกำกับไว้ที่ปลายทั้งสองด้าน เพื่อนำไปเขียนมุมมองภาพตัด คือเส้นในข้อใด,เส้นแสดงลายตัด (Hatch line),เส้นเงา (Phantom line),เส้นแสดงระนาบตัด (Cutting plane line),เส้นตัดมือเปล่า (Free hand Break line),none,3,none,none,none,none,none,none
+476,การเขียนแบบภาพตัด ที่แสดงการผ่าครึ่งชิ้นงานออกเป็นสองชิ้นส่วนเท่ากัน เรียกว่าการตัดแบบใด,ตัดเต็ม (Full section),ตัดตามแนว (Aligned section),ตัดหมุน (Revolve section),ตัดครึ่ง (Half section),none,1,none,none,none,none,none,none
+477,ข้อใดเป็นมุมมองภาพตัดหมุนที่ถูกต้อง ของรูปที่กำหนดให้,none,none,none,none,none,3,q477.png,a477.png,b477.png,c477.png,d477.png,none
+478,ภาพใดเป็นภาพตัดตามมาตรฐาน,none,none,none,none,none,4,none,a478.png,b478.png,c478.png,d478.png,none
+479,ทำไมจึงแสดงแบบด้วยการตัดครึ่งเดียว,ประหยัดการเขียนเส้นลายตัด,ชิ้นงานที่ยกเว้นไม่ตัด,เพื่อแสดงส่วนที่ขาดไป,เมื่อเป็นชิ้นงานเหลี่ยม,none,3,none,none,none,none,none,none
+480,การตัดครึ่งให้ตัดส่วนใด,ไม่กำหนดไว้แน่นอน,ส่วนซ้าย,ส่วนบน,ส่วนล่างและส่วนขวา,none,4,none,none,none,none,none,none
+481,การตัดครึ่งให้แบ่งส่วนด้วยอะไร,เส้นมือเปล่า,เส้นศูนย์กลาง,เส้นลูกโซ่หนา,เส้นเต็มหนา,none,3,none,none,none,none,none,none
+482,การตัดเฉพาะส่วนแสดงด้วย เส้นอะไร,เส้นเต็มบาง,เส้นมือเปล่า,เส้นลูกโซ่หนา,ไม่ต้องแสดงเส้น,none,2,none,none,none,none,none,none
+483,แบบนี้มีอะไรไม่ถูกต้อง,ตัดเฉพาะส่วนแสดงด้วยเส้นเต็มบาง,ควรเขียนเป็นภาพตัดเต็ม,เส้นลายตัดชิ้นเดียวกันไปทางเดียวกัน,เขียนถูกต้องแล้ว,none,3,q483.png,none,none,none,none,none
+484,แบบใดเป็นภาพตัดครึ่ง,none,none,none,none,none,2,none,a484.png,b484.png,c484.png,d484.png,none
+485,ภาพใดเป็นภาพตัดที่ถูกต้อง,none,none,none,none,none,4,none,a485.png,b485.png,c485.png,d485.png,none
+486,ภาพใด เป็นภาพตัดที่ถูกต้อง,none,none,none,none,none,3,none,a486.png,b486.png,c486.png,d486.png,none
+487,การตัดเฉพาะส่วน ตัดอย่างไร,none,none,none,none,none,4,none,a487.png,b487.png,c487.png,d487.png,none
+488,เส้นคู่ขนานสั้นๆ ในแบบหมายถึงอะไร,กำหนดขนาดสมมาตร,ยอมให้ศูนย์กลางเปลี่ยนแนวได้,แสดงถึงเส้นสมมาตร,แสดงเส้นศูนย์กลางที่ยกขึ้น,none,3,q488.png,none,none,none,none,none
+489,ภาพด้านหน้าตัดหมุนภาพใดแสดงไว้ถูกต้อง หากเขียนภาพฉายด้านข้างได้ดังภาพซ้ายมือ,none,none,none,none,none,3,q489.png,a489.png,b489.png,c489.png,d489.png,none
+490,ภาพใดแสดงการตัดเคลื่อนผิด,none,none,none,none,none,3,q490.png,a490.png,b490.png,c490.png,d490.png,none
+491,ภาพใดเป็นภาพตัดหมุนสมบูรณ์ในตัวที่ถูกต้อง,none,none,none,none,none,3,none,a491.png,b491.png,c491.png,d491.png,none
+492,แบบหน้าแปลนนี้แสดงอะไร,เขียนแบบผิด,วงกลมศูนย์รูยึด,ขอบหน้าแปลน,แสดงครึ่งภาพ,none,4,q492.png,none,none,none,none,none
+493,ต้องการเห็นรูเป็นภาพตัดทั้ง 3 รู จะใช้รหัสอะไร,ไม่มีรหัสเฉพาะ,เส้นลูกโซ่หนา,เส้นลูกโซ่หนากับลูกศร,เส้นลูกโซ่ ลูกศรและตัวพยัญชนะ,none,4,q493.png,none,none,none,none,none
+494,ภาพขยายการตัดบางส่วนออกมาแสดงด้วยอะไร,วงกลม เส้นบางและตัวเลข,วงกลม เส้นบางและตัวพยัญชนะ,วงกลม เส้นลูกโซ่และตัวเลข,วงกลม เส้นลูกโซ่และตัวพยัญชนะ,none,4,none,none,none,none,none,none
+495,การเขียนแบบขอบหน้าแปลนอย่างง่าย แสดงด้วยอะไร,แสดงครึ่งภาพด้านบน,แสดงขอบหน้าแปลนด้วยเส้นเต็มบาง,แสดงขอบหน้าแปลนด้วยเส้นเต็มหนา,แสดงเฉพาะรูยึด,none,2,none,none,none,none,none,none
+496,ตำแหน่งรูยึดหน้าแปลนแสดงที่ใด,ภาพด้านหน้า,ภาพด้านข้าง,วงกลมศูนย์รูยึด,ในภาพตัดเต็ม,none,3,none,none,none,none,none,none
+497,ภาพใดแสดงรูในเกลียวตามแบบมาตรฐาน,none,none,none,none,none,3,none,a497.png,b497.png,c497.png,d497.png,none
+498,ภาพตัดภาพใดแสดงเป็นภาพตัดด้านหน้าของภาพทางซ้ายถูกต้องตามมาตรฐานในเขียนแบบ,none,none,none,none,none,4,q498.png,a498.png,b498.png,c498.png,d498.png,none
+499,ภาพตัดครึ่งภาพใดเขียนถูกต้องมาตรฐาน,none,none,none,none,none,2,none,a499.png,b499.png,c499.png,d499.png,none
+500,ภาพประกอบภาพใดเขียนถูกมาตรฐาน,none,none,none,none,none,3,none,a500.png,b500.png,c500.png,d500.png,none
+501,ภาพตัดเฉพาะส่วนภาพใด เขียนถูกมาตรฐาน,none,none,none,none,none,4,none,a501.png,b501.png,c501.png,d501.png,none
+502,ภาพตัดใดเขียนไม่ถูกมาตรฐาน,none,none,none,none,none,2,none,a502.png,b502.png,c502.png,d502.png,none
+503,ข้อใดเป็น Sectional view ที่เหมาะสมที่สุดสำหรับ top view ที่ให้,none,none,none,none,none,4,q503.png,a503.png,b503.png,c503.png,d503.png,none
+504,ภาพใดเป็น Half-section ที่ถูกต้องของภาพ Top view ที่กำหนดให้,none,none,none,none,none,4,q504.png,a504.png,b504.png,c504.png,d504.png,none
+505,ภาพใดเป็น Full-section ที่ถูกต้องของภาพ Top view ที่กำหนดให้,none,none,none,none,none,2,q505.png,a505.png,b505.png,c505.png,d505.png,none
+506,การแสดงภาพตัดแบบใดที่เหมาะสมที่สุด,none,none,none,none,none,4,none,a506.png,b506.png,c506.png,d506.png,none
+507,ข้อใดไม่ถูกต้องของการเขียนแบบด้วยมือเปล่า (Freehand Sketching),ใช้เครื่องมือและอุปกรณ์ในการเขียนแบบน้อย,เขียนได้อย่างรวดเร็ว,ได้มาตราส่วนที่แน่นอน,ไม่ถูกต้องมากกว่า 1 ข้อ,none,4,none,none,none,none,none,none
+508,การเขียนเส้นตรงด้วยมือเปล่าให้ตรง มีหลักในการลากอย่างไร,ให้สายตามองตามดินสออยู่ตลอดเวลา,แบ่งเส้นลากเป็นเส้นสั้นๆ ต่อกัน,ลากอย่างช้าๆ จับดินสอให้แน่น,ถูกข้อที่ 2. และ ข้อที่ 3.,none,2,none,none,none,none,none,none
+509,วัตถุประสงค์ของการสเก็ตภาพคือข้อใด,เพื่อให้ได้ภาพที่สวยงาม,เพื่อให้ได้ขนาดที่ถูกต้อง,เพื่อนำเสนอแนวความคิดต่อผู้อื่นได้อย่างรวดเร็ว,เพื่อให้เส้นมีความคมชัด,none,3,none,none,none,none,none,none
+510,ข้อใดคือสิ่งที่สำคัญที่สุดในการสเก็คภาพ,ต้องได้สเกลที่ถูกต้อง,ต้องให้ได้สัดส่วนที่ถูกต้อง,ต้องให้ได้ความสวยงาม,ต้องเขียนให้ได้อย่างรวดเร็ว,none,2,none,none,none,none,none,none
+511,เครื่องมือที่ใช้ในการสเก็ตภาพ คือข้อใด,"ดินสอ, ไม้บรรทัด, ยางลบ","ดินสอ, เศษกระดาษ, ยางลบ","ดินสอ, ไม้บรรทัด, วงเวียน","ดินสอ, วงเวียน, ไม้บรรทัด",none,2,none,none,none,none,none,none
+512,วัตถุประสงค์ในการใช้กระดาษตารางสำหรับการสเก็ตภาพ คือข้อใด,เพื่อให้ได้สัดส่วน,เพื่อให้สเกลที่ถูกต้อง,เพื่อให้ได้เส้นตรง,เพื่อให้เขียนรูปสี่เหลี่ยมได้ง่ายขึ้น,none,1,none,none,none,none,none,none
+513,ข้อดีของการสเก็ตภาพ เมื่อเปรียบเทียบกับการเขียนแบบด้วยเครื่องมือ คือข้อใด,ได้ขนาดที่มีความถูกต้อง,ไม่ต้องมีทักษะในการเขียนแบบมากนัก,ใช้ดินสอ และเศษกระดาษเป็นเครื่องมือเท่านั้น,แบบที่ได้มีความสวยงามกว่า,none,3,none,none,none,none,none,none
+514,ภาพต่อไปนี้แสดงสัญลักษณ์แนวเชื่อมอะไร,แนวเชื่อมชนฉาก 2 ด้าน,แนวเชื่อมกลาง 2 ด้าน,แนวเชื่อมมุม 2 ด้าน,แนวเชื่อม V 2 ด้าน,none,1,q514.png,none,none,none,none,none
+515,รหัสต่อไปนี้หมายถึงอะไร,แนวเชื่อมที่ต้องเชื่อมที่งานติดตั้ง,แนวเชื่อมต้องผ่านการตรวจความปลอดภัย,แนวเชื่อมต้องทาสีกันสนิม,แนวเชื่อมต้องอบคลายความเครียด,none,1,q515.png,none,none,none,none,none
+516,ตารางรายการแบบอยู่ที่ตำแหน่งใดในกระดาษเขียนแบบ,ด้านล่างขวามือ,ด้านล่างซ้ายมือ,ด้านล่างตรงกลาง,อยู่ตำแหน่งใดก็ได้แล้วแต่เหมาะสม,none,1,none,none,none,none,none,none
+517,เกลียวระบบเมตริก M 12 x 1.75 หมายความว่าอย่างไร,เกลียวระบบเมตริก ความยาว 12 มิลลิเมตร เส้นผ่านศูนย์กลาง 1.75 มิลลิเมตร,เกลียวระบบเมตริก จำนวนเกลียว 12 เกลียวต่อความยาว 1 มิลลิเมตรขนาดเส้นผ่านศูนย์กลาง 1.75 มิลลิเมตร,เกลียวระบบเมตริก ขนาดเส้นผ่านศูนย์กลาง 12 มิลลิเมตร จำนวนเกลียว 1.75 เกลียวต่อความยาว 1 มิลลิเมตร,เกลียวระบบเมตริก ขนาดเส้นผ่านศูนย์กลาง 12 มิลลิเมตร ระยะพิท 1.75 มิลลิเมตร,none,4,none,none,none,none,none,none
+518,เกลียวระบบยูนิไฟ (Unified) 5/8 - 18 UNR F หมายความว่าอย่างไร,เกลียวขนาดเส้นผ่าศูนย์กลาง(Normal major diameter) 5/8 นิ้ว จำนวนเกลียว 18 เกลียวต่อนิ้ว ชนิดละเอียด,เกลียวขนาดเส้นผ่าศูนย์กลาง(Normal major diameter) 18 นิ้ว จำนวนเกลียว 5/8 เกลียวต่อนิ้ว ชนิดละเอียด,เกลียวขนาดเส้นผ่าศูนย์กลาง(Normal major diameter) 5/8 นิ้ว ระยะพิท(pitch) 18 นิ้ว ชนิดละเอียด,เกลียวขนาดเส้นผ่าศูนย์กลาง(Normal major diameter) 5/8 นิ้ว จำนวนเกลียว 18 เกลียวต่อนิ้ว ชนิดเกรด F,none,1,none,none,none,none,none,none
+519,จากรูปที่กำหนดให้ ถ้านำหน้าตัด A หมุนรอบแกน B จะได้รูปทรงใด,รูปทรงกลม,รูปทรงรี,รูปทรงโดนัท,ผิดทุกข้อ,none,3,q519.png,none,none,none,none,none
+520,ประโยชน์ของการเขียนภาพช่วย(Auxiliary view) คือข้อใด,ใช้แสดงเส้นที่มองไม่เห็น,ใช้แสดงรูปร่างจริงของวัตถุ,ใช้แสดงภาพลายตัดของวัตถุ,เพื่อลดเวลาการเขียนภาพฉาย,none,2,none,none,none,none,none,none
+521,เมื่อต้องการเขียนภาพช่วย เส้นที่ฉายจากพื้นผิวเอียง จะต้องทำมุมเท่าใด,60 องศา,45 องศา,90 องศา,ผิดทุกข้อ,none,3,none,none,none,none,none,none
+522,จากภาพที่กำหนดให้ เป็นภาพแบบใด,Isometric Projection,Perspective Projection,Oblique Projection,Multiview Projection,none,2,q522.png,none,none,none,none,none
+523,จากภาพที่กำหนดให้ เป็นภาพชนิดใด,Isometric,Oblique,Multiview,Perspective,none,4,q523.png,none,none,none,none,none
+524,จากภาพที่กำหนดให้ เป็นภาพชนิดใด,Isometric,Multiview,Perspective,Oblique,none,4,q524.png,none,none,none,none,none
+525,จากภาพที่กำหนดให้ เป็นภาพชนิดใด,Isometric,Perspective,Oblique,Multiview,none,2,q525.png,none,none,none,none,none
+526,หากวัตถุในรูปทำจากวัสดุที่มีค่าความหนาแน่น 10000 kg/m3 วัตถุนี้จะมีน้ำหนักเท่าใด,4.6315 kg,4.5688 kg,4.5060 kg,4.3116 kg,none,1,q526.png,none,none,none,none,none

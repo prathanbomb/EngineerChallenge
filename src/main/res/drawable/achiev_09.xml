@@ -1,0 +1,46 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="100dp"
+    android:height="100dp"
+    android:autoMirrored="true"
+    android:viewportHeight="512.0"
+    android:viewportWidth="512.0">
+    <path
+        android:fillColor="#D32F2F"
+        android:pathData="M0,0h512v512h-512z" />
+    <path
+        android:fillColor="#37474F"
+        android:pathData="M27,27h459v459h-459z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M397.8,341.2v-55.8h-20.5V330c0,7 -5.7,12.7 -12.7,12.7H111.3c-7,0 -12.7,-5.7 -12.7,-12.7V178c0,-7 5.7,-12.7 12.7,-12.7h145v-13H92.7c-8,0 -14.6,6.5 -14.6,14.5v87.2v87.1v14.5l-36.3,43.6c0,12 9.8,21.8 21.8,21.8h348.6c12,0 21.8,-9.8 21.8,-21.8l-36.3,-43.6L397.8,341.2L397.8,341.2zM267.1,413.8h-58.1c-2,0 -3.6,-1.6 -3.6,-3.6c0,-2 1.6,-3.6 3.6,-3.6h58.1c2,0 3.6,1.6 3.6,3.6C270.7,412.2 269.1,413.8 267.1,413.8zM178.1,399.3l11.1,-13.3h97.6l11.1,13.3C297.9,399.3 178.1,399.3 178.1,399.3z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M214.1,259.5h30.3v30.3h-30.3z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M233.2,217.9h30.3v30.3h-30.3z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M263,255.9h30.3v30.3h-30.3z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M287.1,205.5h36v36h-36z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M338,95.2h36v36h-36z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M272.7,160.3h36v36h-36z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M329.3,144.9h51.4v51.4h-51.4z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M367.7,206.8h62.2v62.2h-62.2z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M391.2,89.9h77.2v77.2h-77.2z" />
+    <path
+        android:fillColor="#FFB300"
+        android:pathData="M320,245.6h36v36h-36z" />
+</vector>

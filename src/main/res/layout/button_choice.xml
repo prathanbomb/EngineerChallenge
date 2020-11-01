@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="horizontal"
+    android:padding="5dp">
+
+    <com.weekly.engineer.challenge.view.QText
+        android:id="@+id/bt_tv_1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textAlignment="textStart"
+        android:layout_marginRight="5dp"
+        android:layout_marginLeft="15dp"
+        android:textColor="@color/black_darken"
+        android:textSize="22sp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <com.weekly.engineer.challenge.view.QText
+            android:id="@+id/bt_tv_2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAlignment="textStart"
+            android:layout_marginRight="5dp"
+            android:textColor="@color/black_darken"
+            android:textSize="22sp" />
+
+
+        <ImageView
+            android:id="@+id/bt_img"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:scaleType="centerCrop" />
+
+    </LinearLayout>
+
+</LinearLayout>

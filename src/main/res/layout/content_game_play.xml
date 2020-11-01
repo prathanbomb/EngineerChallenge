@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    app:layout_behavior="@string/appbar_scrolling_view_behavior"
+    tools:context=".activity.GamePlayActivity"
+    tools:showIn="@layout/activity_game_play"
+    android:background="@color/yello_bg">
+
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:srcCompat="@drawable/background_gear"
+        android:scaleType="centerCrop"/>
+
+    <com.weekly.engineer.challenge.view.CustomScrollView
+        android:id="@+id/game_scroll"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:padding="16dp">
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <com.weekly.engineer.challenge.view.QText
+                    android:id="@+id/game_play_text_question"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="start"
+                    android:textColor="@color/black_darken"
+                    android:textSize="30sp" />
+
+                <ImageView
+                    android:id="@+id/game_play_img_question"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_margin="10dp"/>
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="vertical"
+                android:layout_marginBottom="40dp">
+
+
+                <com.weekly.engineer.challenge.view.ChoiceButton
+                    android:id="@+id/game_play_choice_a"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginBottom="10dp" />
+
+                <com.weekly.engineer.challenge.view.ChoiceButton
+                    android:id="@+id/game_play_choice_b"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp" />
+
+                <com.weekly.engineer.challenge.view.ChoiceButton
+                    android:id="@+id/game_play_choice_c"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp" />
+
+                <com.weekly.engineer.challenge.view.ChoiceButton
+                    android:id="@+id/game_play_choice_d"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="10dp" />
+
+                <com.weekly.engineer.challenge.view.ChoiceButton
+                    android:id="@+id/game_play_choice_e"
+                    android:layout_width="fill_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_marginBottom="40dp"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </com.weekly.engineer.challenge.view.CustomScrollView>
+
+</RelativeLayout>
